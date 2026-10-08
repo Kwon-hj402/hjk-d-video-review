@@ -1,0 +1,6 @@
+videos/** -text
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
