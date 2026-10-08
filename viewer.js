@@ -8,7 +8,11 @@ document.querySelectorAll(".card").forEach(card => {
       video.pause();
       video.querySelectorAll("source").forEach(source => source.remove());
       video.src = button.dataset.src;
-      video.setAttribute("aria-label", card.querySelector("h2").textContent + " " + button.dataset.kind);
+      video.dataset.view = button.dataset.view;
+      video.setAttribute("aria-label", card.querySelector(".video-title").textContent + " " + button.dataset.kind);
+      card.querySelector(".video-caption").textContent = button.dataset.view === "analysis"
+        ? "추정 내강 경계 및 직경 D (mm)"
+        : "좌: 원본 초음파 영상 · 우: 추정 내강 경계 및 직경 D (mm)";
       card.querySelectorAll("button[data-src]").forEach(choice => {
         const selected = choice === button;
         choice.classList.toggle("active", selected);

@@ -1,46 +1,142 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="경동맥 초음파 원본 영상과 내강 경계, 프레임별 D 측정 결과를 비교합니다."><meta name="robots" content="noindex,nofollow">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; media-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'">
-<title>경동맥 초음파 · D 영상 비교</title><link rel="stylesheet" href="style.css"><script src="viewer.js" defer></script></head><body id="top">
-<main><header class="hero"><span class="eyebrow">ULTRASOUND REVIEW</span><h1>경동맥 초음파<br><span>D 영상 비교</span></h1>
-<p class="lead">왼쪽 원본 · 오른쪽 예측 경계와 D(mm).<br>영상별로 재생하고, 프레임별 값을 내려받으세요.</p>
-<div class="metrics"><div><b>7</b><span>전체 영상</span></div><div><b>15,133</b><span>전체 프레임</span></div><div><b>12,276</b><span>D 표시</span></div><div><b>2,857</b><span>측정 불가</span></div></div>
-<p class="annotation"><i></i>승인 레이블 215장 기준 · 원본 모델에서 새 학습 · 100회 학습</p></header>
-<section class="video-grid" aria-label="7개 영상 목록"><article class="card" id="video-0002">
-<div class="card-heading"><div><span class="eyebrow">CAROTID 0002</span><h2>영상 01 · 0002</h2></div><span class="duration">1:15</span></div>
-<video controls playsinline preload="metadata" poster="videos/0002/poster.jpg" aria-label="영상 01 · 0002 원본과 D 비교"><source src="videos/0002/compare.mp4" type="video/mp4"></video>
-<div class="counts"><span>전체 <b>2,164</b></span><span>D 표시 <b>1,860</b></span><span>측정 불가 <b>304</b></span></div>
-<nav class="actions" aria-label="영상 01 · 0002 보기 방식"><button type="button" class="active" aria-pressed="true" data-src="videos/0002/compare.mp4" data-kind="원본·처리 비교">원본·처리 비교</button><button type="button" aria-pressed="false" data-src="videos/0002/diameter.mp4" data-kind="처리 영상">처리 영상만</button><a href="videos/0002/diameter.csv" download="0002_D.csv">D 값 CSV ↓</a></nav>
-<a class="file-link" href="videos/0002/compare.mp4">비교 영상 파일 열기 ↗</a></article><article class="card" id="video-0004">
-<div class="card-heading"><div><span class="eyebrow">CAROTID 0004</span><h2>영상 02 · 0004</h2></div><span class="duration">1:13</span></div>
-<video controls playsinline preload="metadata" poster="videos/0004/poster.jpg" aria-label="영상 02 · 0004 원본과 D 비교"><source src="videos/0004/compare.mp4" type="video/mp4"></video>
-<div class="counts"><span>전체 <b>2,091</b></span><span>D 표시 <b>1,119</b></span><span>측정 불가 <b>972</b></span></div>
-<nav class="actions" aria-label="영상 02 · 0004 보기 방식"><button type="button" class="active" aria-pressed="true" data-src="videos/0004/compare.mp4" data-kind="원본·처리 비교">원본·처리 비교</button><button type="button" aria-pressed="false" data-src="videos/0004/diameter.mp4" data-kind="처리 영상">처리 영상만</button><a href="videos/0004/diameter.csv" download="0004_D.csv">D 값 CSV ↓</a></nav>
-<a class="file-link" href="videos/0004/compare.mp4">비교 영상 파일 열기 ↗</a></article><article class="card" id="video-0005">
-<div class="card-heading"><div><span class="eyebrow">CAROTID 0005</span><h2>영상 03 · 0005</h2></div><span class="duration">1:15</span></div>
-<video controls playsinline preload="metadata" poster="videos/0005/poster.jpg" aria-label="영상 03 · 0005 원본과 D 비교"><source src="videos/0005/compare.mp4" type="video/mp4"></video>
-<div class="counts"><span>전체 <b>2,156</b></span><span>D 표시 <b>1,971</b></span><span>측정 불가 <b>185</b></span></div>
-<nav class="actions" aria-label="영상 03 · 0005 보기 방식"><button type="button" class="active" aria-pressed="true" data-src="videos/0005/compare.mp4" data-kind="원본·처리 비교">원본·처리 비교</button><button type="button" aria-pressed="false" data-src="videos/0005/diameter.mp4" data-kind="처리 영상">처리 영상만</button><a href="videos/0005/diameter.csv" download="0005_D.csv">D 값 CSV ↓</a></nav>
-<a class="file-link" href="videos/0005/compare.mp4">비교 영상 파일 열기 ↗</a></article><article class="card" id="video-0006">
-<div class="card-heading"><div><span class="eyebrow">CAROTID 0006</span><h2>영상 04 · 0006</h2></div><span class="duration">1:17</span></div>
-<video controls playsinline preload="metadata" poster="videos/0006/poster.jpg" aria-label="영상 04 · 0006 원본과 D 비교"><source src="videos/0006/compare.mp4" type="video/mp4"></video>
-<div class="counts"><span>전체 <b>2,209</b></span><span>D 표시 <b>963</b></span><span>측정 불가 <b>1,246</b></span></div>
-<nav class="actions" aria-label="영상 04 · 0006 보기 방식"><button type="button" class="active" aria-pressed="true" data-src="videos/0006/compare.mp4" data-kind="원본·처리 비교">원본·처리 비교</button><button type="button" aria-pressed="false" data-src="videos/0006/diameter.mp4" data-kind="처리 영상">처리 영상만</button><a href="videos/0006/diameter.csv" download="0006_D.csv">D 값 CSV ↓</a></nav>
-<a class="file-link" href="videos/0006/compare.mp4">비교 영상 파일 열기 ↗</a></article><article class="card" id="video-0007">
-<div class="card-heading"><div><span class="eyebrow">CAROTID 0007</span><h2>영상 05 · 0007</h2></div><span class="duration">1:13</span></div>
-<video controls playsinline preload="metadata" poster="videos/0007/poster.jpg" aria-label="영상 05 · 0007 원본과 D 비교"><source src="videos/0007/compare.mp4" type="video/mp4"></video>
-<div class="counts"><span>전체 <b>2,095</b></span><span>D 표시 <b>2,029</b></span><span>측정 불가 <b>66</b></span></div>
-<nav class="actions" aria-label="영상 05 · 0007 보기 방식"><button type="button" class="active" aria-pressed="true" data-src="videos/0007/compare.mp4" data-kind="원본·처리 비교">원본·처리 비교</button><button type="button" aria-pressed="false" data-src="videos/0007/diameter.mp4" data-kind="처리 영상">처리 영상만</button><a href="videos/0007/diameter.csv" download="0007_D.csv">D 값 CSV ↓</a></nav>
-<a class="file-link" href="videos/0007/compare.mp4">비교 영상 파일 열기 ↗</a></article><article class="card" id="video-0008">
-<div class="card-heading"><div><span class="eyebrow">CAROTID 0008</span><h2>영상 06 · 0008</h2></div><span class="duration">1:18</span></div>
-<video controls playsinline preload="metadata" poster="videos/0008/poster.jpg" aria-label="영상 06 · 0008 원본과 D 비교"><source src="videos/0008/compare.mp4" type="video/mp4"></video>
-<div class="counts"><span>전체 <b>2,254</b></span><span>D 표시 <b>2,254</b></span><span>측정 불가 <b>0</b></span></div>
-<nav class="actions" aria-label="영상 06 · 0008 보기 방식"><button type="button" class="active" aria-pressed="true" data-src="videos/0008/compare.mp4" data-kind="원본·처리 비교">원본·처리 비교</button><button type="button" aria-pressed="false" data-src="videos/0008/diameter.mp4" data-kind="처리 영상">처리 영상만</button><a href="videos/0008/diameter.csv" download="0008_D.csv">D 값 CSV ↓</a></nav>
-<a class="file-link" href="videos/0008/compare.mp4">비교 영상 파일 열기 ↗</a></article><article class="card" id="video-0009">
-<div class="card-heading"><div><span class="eyebrow">CAROTID 0009</span><h2>영상 07 · 0009</h2></div><span class="duration">1:15</span></div>
-<video controls playsinline preload="metadata" poster="videos/0009/poster.jpg" aria-label="영상 07 · 0009 원본과 D 비교"><source src="videos/0009/compare.mp4" type="video/mp4"></video>
-<div class="counts"><span>전체 <b>2,164</b></span><span>D 표시 <b>2,080</b></span><span>측정 불가 <b>84</b></span></div>
-<nav class="actions" aria-label="영상 07 · 0009 보기 방식"><button type="button" class="active" aria-pressed="true" data-src="videos/0009/compare.mp4" data-kind="원본·처리 비교">원본·처리 비교</button><button type="button" aria-pressed="false" data-src="videos/0009/diameter.mp4" data-kind="처리 영상">처리 영상만</button><a href="videos/0009/diameter.csv" download="0009_D.csv">D 값 CSV ↓</a></nav>
-<a class="file-link" href="videos/0009/compare.mp4">비교 영상 파일 열기 ↗</a></article></section>
-<section class="method"><span class="eyebrow">MEASUREMENT</span><h2>D는 이렇게 계산했습니다</h2><p>혈관 양끝을 각각 15% 제외하고, 가운데 구간에서 중심선에 직각인 두 내강 벽 사이 거리를 평균했습니다. 분지·불명확한 경계 교차·급격히 튀는 폭과 짧게 검출된 조각은 제외했습니다.</p><p>영상의 인접 눈금 한 칸을 5 mm로 환산했습니다. 검출한 혈관 길이가 혈관 방향으로 본 촬영 영역 길이의 35%보다 짧으면 D를 표시하지 않습니다. ‘측정 불가’인 프레임도 영상에는 모두 포함돼 있습니다.</p><p class="review-note">모델이 예측한 경계로 계산한 추정값입니다. 특히 0004·0006은 경계가 불안정한 구간이 있어 영상으로 확인해야 합니다.</p></section>
-<footer><span>영상 7개 · 프레임별 D 측정 결과</span><a href="#top" aria-label="페이지 처음으로">맨 위로 ↑</a></footer></main></body></html>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="경동맥 초음파 영상의 내강 분할 결과와 프레임별 내강 직경 D를 시각화한 분석 자료.">
+  <meta name="robots" content="noindex,nofollow">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; media-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'">
+  <title>경동맥 초음파 내강 직경 분석</title>
+  <link rel="stylesheet" href="style.css?v=20261009">
+  <script src="viewer.js?v=20261009" defer></script>
+</head>
+<body id="top">
+  <a class="skip-link" href="#results">분석 영상으로 이동</a>
+  <main>
+    <header class="hero">
+      <span class="eyebrow">초음파 영상 분석 자료</span>
+      <h1>경동맥 초음파 내강 직경 분석</h1>
+      <p class="lead">분할 모델로 추정한 내강 경계와 프레임별 내강 직경 <i>D</i> (mm)를 원본 영상과 비교하였다.</p>
+      <p class="annotation">승인된 주석 프레임 215장을 사용하여 사전학습 모델을 초기값으로 100 epoch 학습하였다.</p>
+      <dl class="metrics" aria-label="분석 자료 요약">
+        <div><dt>분석 영상</dt><dd>7</dd></div>
+        <div><dt>전체 프레임</dt><dd>15,133</dd></div>
+        <div><dt>직경 산출 프레임</dt><dd>12,276</dd></div>
+        <div><dt>직경 미산출 프레임</dt><dd>2,857</dd></div>
+      </dl>
+    </header>
+    <section id="results" aria-labelledby="results-title">
+      <div class="section-heading"><h2 id="results-title">분석 영상</h2><a href="#method">측정 방법</a></div>
+      <nav class="video-index" aria-label="영상 바로가기"><span>영상 번호</span><a href="#video-0002">0002</a><a href="#video-0004">0004</a><a href="#video-0005">0005</a><a href="#video-0006">0006</a><a href="#video-0007">0007</a><a href="#video-0008">0008</a><a href="#video-0009">0009</a></nav>
+      <div class="video-grid">
+      <article class="card" id="video-0002">
+        <header class="card-heading">
+          <h3 class="video-title"><span class="figure-number">영상 01.</span> CAROTID 0002</h3>
+          <span class="duration">재생 시간 1:15</span>
+        </header>
+        <video controls playsinline preload="metadata" data-view="comparison" poster="videos/0002/poster.jpg" aria-label="영상 01 CAROTID 0002 원본 및 분석 결과"><source src="videos/0002/compare.mp4" type="video/mp4"></video>
+        <p class="video-caption"><span>좌: 원본 초음파 영상</span><span>우: 추정 내강 경계 및 직경 <i>D</i> (mm)</span></p>
+        <div class="counts"><span>전체 프레임<b>2,164</b></span><span>직경 산출<b>1,860</b></span><span>직경 미산출<b>304</b></span></div>
+        <nav class="actions" aria-label="영상 01 보기 방식">
+          <button type="button" class="active" aria-pressed="true" data-src="videos/0002/compare.mp4" data-view="comparison" data-kind="원본 및 분석 결과">원본·분석 비교</button>
+          <button type="button" aria-pressed="false" data-src="videos/0002/diameter.mp4" data-view="analysis" data-kind="분석 결과">분석 결과</button>
+          <span class="downloads"><a href="videos/0002/diameter.csv" download="0002_D.csv">직경 데이터 (CSV)</a><a href="videos/0002/compare.mp4">비교 영상 열기</a></span>
+        </nav>
+      </article>
+      <article class="card" id="video-0004">
+        <header class="card-heading">
+          <h3 class="video-title"><span class="figure-number">영상 02.</span> CAROTID 0004</h3>
+          <span class="duration">재생 시간 1:13</span>
+        </header>
+        <video controls playsinline preload="metadata" data-view="comparison" poster="videos/0004/poster.jpg" aria-label="영상 02 CAROTID 0004 원본 및 분석 결과"><source src="videos/0004/compare.mp4" type="video/mp4"></video>
+        <p class="video-caption"><span>좌: 원본 초음파 영상</span><span>우: 추정 내강 경계 및 직경 <i>D</i> (mm)</span></p>
+        <div class="counts"><span>전체 프레임<b>2,091</b></span><span>직경 산출<b>1,119</b></span><span>직경 미산출<b>972</b></span></div>
+        <nav class="actions" aria-label="영상 02 보기 방식">
+          <button type="button" class="active" aria-pressed="true" data-src="videos/0004/compare.mp4" data-view="comparison" data-kind="원본 및 분석 결과">원본·분석 비교</button>
+          <button type="button" aria-pressed="false" data-src="videos/0004/diameter.mp4" data-view="analysis" data-kind="분석 결과">분석 결과</button>
+          <span class="downloads"><a href="videos/0004/diameter.csv" download="0004_D.csv">직경 데이터 (CSV)</a><a href="videos/0004/compare.mp4">비교 영상 열기</a></span>
+        </nav>
+      </article>
+      <article class="card" id="video-0005">
+        <header class="card-heading">
+          <h3 class="video-title"><span class="figure-number">영상 03.</span> CAROTID 0005</h3>
+          <span class="duration">재생 시간 1:15</span>
+        </header>
+        <video controls playsinline preload="metadata" data-view="comparison" poster="videos/0005/poster.jpg" aria-label="영상 03 CAROTID 0005 원본 및 분석 결과"><source src="videos/0005/compare.mp4" type="video/mp4"></video>
+        <p class="video-caption"><span>좌: 원본 초음파 영상</span><span>우: 추정 내강 경계 및 직경 <i>D</i> (mm)</span></p>
+        <div class="counts"><span>전체 프레임<b>2,156</b></span><span>직경 산출<b>1,971</b></span><span>직경 미산출<b>185</b></span></div>
+        <nav class="actions" aria-label="영상 03 보기 방식">
+          <button type="button" class="active" aria-pressed="true" data-src="videos/0005/compare.mp4" data-view="comparison" data-kind="원본 및 분석 결과">원본·분석 비교</button>
+          <button type="button" aria-pressed="false" data-src="videos/0005/diameter.mp4" data-view="analysis" data-kind="분석 결과">분석 결과</button>
+          <span class="downloads"><a href="videos/0005/diameter.csv" download="0005_D.csv">직경 데이터 (CSV)</a><a href="videos/0005/compare.mp4">비교 영상 열기</a></span>
+        </nav>
+      </article>
+      <article class="card" id="video-0006">
+        <header class="card-heading">
+          <h3 class="video-title"><span class="figure-number">영상 04.</span> CAROTID 0006</h3>
+          <span class="duration">재생 시간 1:17</span>
+        </header>
+        <video controls playsinline preload="metadata" data-view="comparison" poster="videos/0006/poster.jpg" aria-label="영상 04 CAROTID 0006 원본 및 분석 결과"><source src="videos/0006/compare.mp4" type="video/mp4"></video>
+        <p class="video-caption"><span>좌: 원본 초음파 영상</span><span>우: 추정 내강 경계 및 직경 <i>D</i> (mm)</span></p>
+        <div class="counts"><span>전체 프레임<b>2,209</b></span><span>직경 산출<b>963</b></span><span>직경 미산출<b>1,246</b></span></div>
+        <nav class="actions" aria-label="영상 04 보기 방식">
+          <button type="button" class="active" aria-pressed="true" data-src="videos/0006/compare.mp4" data-view="comparison" data-kind="원본 및 분석 결과">원본·분석 비교</button>
+          <button type="button" aria-pressed="false" data-src="videos/0006/diameter.mp4" data-view="analysis" data-kind="분석 결과">분석 결과</button>
+          <span class="downloads"><a href="videos/0006/diameter.csv" download="0006_D.csv">직경 데이터 (CSV)</a><a href="videos/0006/compare.mp4">비교 영상 열기</a></span>
+        </nav>
+      </article>
+      <article class="card" id="video-0007">
+        <header class="card-heading">
+          <h3 class="video-title"><span class="figure-number">영상 05.</span> CAROTID 0007</h3>
+          <span class="duration">재생 시간 1:13</span>
+        </header>
+        <video controls playsinline preload="metadata" data-view="comparison" poster="videos/0007/poster.jpg" aria-label="영상 05 CAROTID 0007 원본 및 분석 결과"><source src="videos/0007/compare.mp4" type="video/mp4"></video>
+        <p class="video-caption"><span>좌: 원본 초음파 영상</span><span>우: 추정 내강 경계 및 직경 <i>D</i> (mm)</span></p>
+        <div class="counts"><span>전체 프레임<b>2,095</b></span><span>직경 산출<b>2,029</b></span><span>직경 미산출<b>66</b></span></div>
+        <nav class="actions" aria-label="영상 05 보기 방식">
+          <button type="button" class="active" aria-pressed="true" data-src="videos/0007/compare.mp4" data-view="comparison" data-kind="원본 및 분석 결과">원본·분석 비교</button>
+          <button type="button" aria-pressed="false" data-src="videos/0007/diameter.mp4" data-view="analysis" data-kind="분석 결과">분석 결과</button>
+          <span class="downloads"><a href="videos/0007/diameter.csv" download="0007_D.csv">직경 데이터 (CSV)</a><a href="videos/0007/compare.mp4">비교 영상 열기</a></span>
+        </nav>
+      </article>
+      <article class="card" id="video-0008">
+        <header class="card-heading">
+          <h3 class="video-title"><span class="figure-number">영상 06.</span> CAROTID 0008</h3>
+          <span class="duration">재생 시간 1:18</span>
+        </header>
+        <video controls playsinline preload="metadata" data-view="comparison" poster="videos/0008/poster.jpg" aria-label="영상 06 CAROTID 0008 원본 및 분석 결과"><source src="videos/0008/compare.mp4" type="video/mp4"></video>
+        <p class="video-caption"><span>좌: 원본 초음파 영상</span><span>우: 추정 내강 경계 및 직경 <i>D</i> (mm)</span></p>
+        <div class="counts"><span>전체 프레임<b>2,254</b></span><span>직경 산출<b>2,254</b></span><span>직경 미산출<b>0</b></span></div>
+        <nav class="actions" aria-label="영상 06 보기 방식">
+          <button type="button" class="active" aria-pressed="true" data-src="videos/0008/compare.mp4" data-view="comparison" data-kind="원본 및 분석 결과">원본·분석 비교</button>
+          <button type="button" aria-pressed="false" data-src="videos/0008/diameter.mp4" data-view="analysis" data-kind="분석 결과">분석 결과</button>
+          <span class="downloads"><a href="videos/0008/diameter.csv" download="0008_D.csv">직경 데이터 (CSV)</a><a href="videos/0008/compare.mp4">비교 영상 열기</a></span>
+        </nav>
+      </article>
+      <article class="card" id="video-0009">
+        <header class="card-heading">
+          <h3 class="video-title"><span class="figure-number">영상 07.</span> CAROTID 0009</h3>
+          <span class="duration">재생 시간 1:15</span>
+        </header>
+        <video controls playsinline preload="metadata" data-view="comparison" poster="videos/0009/poster.jpg" aria-label="영상 07 CAROTID 0009 원본 및 분석 결과"><source src="videos/0009/compare.mp4" type="video/mp4"></video>
+        <p class="video-caption"><span>좌: 원본 초음파 영상</span><span>우: 추정 내강 경계 및 직경 <i>D</i> (mm)</span></p>
+        <div class="counts"><span>전체 프레임<b>2,164</b></span><span>직경 산출<b>2,080</b></span><span>직경 미산출<b>84</b></span></div>
+        <nav class="actions" aria-label="영상 07 보기 방식">
+          <button type="button" class="active" aria-pressed="true" data-src="videos/0009/compare.mp4" data-view="comparison" data-kind="원본 및 분석 결과">원본·분석 비교</button>
+          <button type="button" aria-pressed="false" data-src="videos/0009/diameter.mp4" data-view="analysis" data-kind="분석 결과">분석 결과</button>
+          <span class="downloads"><a href="videos/0009/diameter.csv" download="0009_D.csv">직경 데이터 (CSV)</a><a href="videos/0009/compare.mp4">비교 영상 열기</a></span>
+        </nav>
+      </article>
+      </div>
+    </section>
+    <section class="method" id="method" aria-labelledby="method-title">
+      <h2 id="method-title">내강 직경 측정 방법</h2>
+      <p>추정 내강의 양끝 구간을 각각 15% 제외한 뒤, 중앙 구간에서 국소 중심선에 수직인 두 내강 경계 사이의 거리를 측정하였다. 유효 측정 지점의 평균값을 해당 프레임의 내강 직경 <i>D</i>로 정의하였다.</p>
+      <p>분지, 불명확한 경계 교차 및 국소 직경 이상치는 산출에서 제외하였다. 검출 내강의 종축 범위가 혈관 방향 촬영 영역 길이의 35% 미만인 경우에는 직경을 산출하지 않았다. 직경 미산출 프레임을 포함한 전체 프레임을 영상에 유지하였다.</p>
+      <p>공간 보정은 영상에 표시된 인접 눈금 간격을 5 mm로 적용하였다. 산출한 직경은 영상 우측 상단에 mm 단위로 표시하였으며, 프레임별 결과는 CSV 형식으로 제공한다.</p>
+      <p class="review-note">제시된 직경은 모델이 추정한 내강 경계에 기반한 측정값이다. 영상 0004 및 0006의 일부 구간은 경계 추정이 불안정하여 시각적 검토가 필요하다.</p>
+    </section>
+    <footer><span>경동맥 초음파 · 프레임별 내강 직경 분석</span><a href="#top">상단으로</a></footer>
+  </main>
+</body>
+</html>
