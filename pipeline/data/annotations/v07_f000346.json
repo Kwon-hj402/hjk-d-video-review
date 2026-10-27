@@ -1,0 +1,52 @@
+{
+  "patient_id": "unassigned",
+  "session_id": "unassigned",
+  "phase": "unknown",
+  "anatomy": "unconfirmed",
+  "mm_per_pixel": null,
+  "cuff_release_video_seconds": null,
+  "cuff_inflation_video_seconds": null,
+  "version": 1,
+  "frame_id": "v07_f000346",
+  "status": "approved",
+  "notes": "",
+  "objects": [
+    {
+      "class_id": 0,
+      "label": "lumen",
+      "points": [
+        [
+          97.46,
+          321.13
+        ],
+        [
+          252.08,
+          336.0
+        ],
+        [
+          431.47,
+          362.76
+        ],
+        [
+          406.69,
+          274.55
+        ],
+        [
+          351.19,
+          261.66
+        ],
+        [
+          197.56,
+          238.87
+        ],
+        [
+          94.48,
+          226.97
+        ]
+      ]
+    }
+  ],
+  "negative": false,
+  "origin": "user",
+  "updated_at": "2026-10-08T13:25:11.087294+00:00"
+}

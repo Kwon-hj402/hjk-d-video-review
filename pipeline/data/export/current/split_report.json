@@ -1,0 +1,1765 @@
+{
+  "version": 1,
+  "approved_only": true,
+  "exploratory": true,
+  "split_policy": "video_group_exploratory",
+  "seed": 28,
+  "frame_counts": {
+    "train": 162,
+    "val": 50,
+    "test": 3
+  },
+  "patient_groups": {
+    "train": [
+      "unassigned"
+    ],
+    "val": [
+      "unassigned"
+    ],
+    "test": [
+      "unassigned"
+    ]
+  },
+  "source_video_groups": {
+    "train": [
+      "v01",
+      "v02",
+      "v05",
+      "v06",
+      "v07"
+    ],
+    "val": [
+      "v03"
+    ],
+    "test": [
+      "v04"
+    ]
+  },
+  "frames": [
+    {
+      "frame_id": "v01_f000001",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000021",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 21,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000049",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 49,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000072",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 72,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000092",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 92,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000117",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 117,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000118",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 118,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000119",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 119,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000120",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 120,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000121",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 121,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000142",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 142,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000166",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 166,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000167",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 167,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000173",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 173,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000174",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 174,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000175",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 175,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000176",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 176,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000177",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 177,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000178",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 178,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000179",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 179,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000180",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 180,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000181",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 181,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000182",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 182,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000198",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 198,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000222",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 222,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000245",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 245,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000271",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 271,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000298",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 298,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000350",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 350,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000376",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 376,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000494",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 494,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000543",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 543,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000544",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 544,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000545",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 545,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000556",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 556,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000559",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 559,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000560",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 560,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000561",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 561,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000562",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 562,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000563",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 563,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000570",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 570,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000571",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 571,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000577",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 577,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f000952",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 952,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001020",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1020,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001041",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1041,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001061",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1061,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001062",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1062,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001063",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1063,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001078",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1078,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001092",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1092,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001109",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1109,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001125",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1125,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001166",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1166,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001184",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1184,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001185",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1185,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001186",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1186,
+      "negative": false
+    },
+    {
+      "frame_id": "v01_f001204",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v01",
+      "frame_index": 1204,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f000162",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 162,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f000181",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 181,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f000217",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 217,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f000235",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 235,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000240",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 240,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000252",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 252,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000277",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 277,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000290",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 290,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000312",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 312,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000368",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 368,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f000374",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 374,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f000503",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 503,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000506",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 506,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000519",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 519,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000532",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 532,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000605",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 605,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f000935",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 935,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f001392",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 1392,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f001448",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 1448,
+      "negative": true
+    },
+    {
+      "frame_id": "v02_f002021",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 2021,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f002022",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 2022,
+      "negative": false
+    },
+    {
+      "frame_id": "v02_f002023",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v02",
+      "frame_index": 2023,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f000116",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 116,
+      "negative": true
+    },
+    {
+      "frame_id": "v03_f000298",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 298,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001276",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1276,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001285",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1285,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001303",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1303,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001306",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1306,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001315",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1315,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001316",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1316,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001317",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1317,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001318",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1318,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001328",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1328,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001349",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1349,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001351",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1351,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001374",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1374,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001375",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1375,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001376",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1376,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001380",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1380,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001397",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1397,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001419",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1419,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001420",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1420,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001441",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1441,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001447",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1447,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001451",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1451,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001460",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1460,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001473",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1473,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001474",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1474,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001475",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1475,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001476",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1476,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001477",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1477,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001478",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1478,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001479",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1479,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001480",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1480,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001481",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1481,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001482",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1482,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001483",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1483,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001509",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1509,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001510",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1510,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001521",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1521,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001522",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1522,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001523",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1523,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001524",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1524,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001535",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1535,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001537",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1537,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001831",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1831,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001832",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1832,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001833",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1833,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001853",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1853,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001864",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1864,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001865",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1865,
+      "negative": false
+    },
+    {
+      "frame_id": "v03_f001883",
+      "split": "val",
+      "patient_id": "unassigned",
+      "video_id": "v03",
+      "frame_index": 1883,
+      "negative": false
+    },
+    {
+      "frame_id": "v04_f001366",
+      "split": "test",
+      "patient_id": "unassigned",
+      "video_id": "v04",
+      "frame_index": 1366,
+      "negative": true
+    },
+    {
+      "frame_id": "v04_f001976",
+      "split": "test",
+      "patient_id": "unassigned",
+      "video_id": "v04",
+      "frame_index": 1976,
+      "negative": false
+    },
+    {
+      "frame_id": "v04_f001982",
+      "split": "test",
+      "patient_id": "unassigned",
+      "video_id": "v04",
+      "frame_index": 1982,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000019",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 19,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000064",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 64,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000101",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 101,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000190",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 190,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000197",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 197,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000260",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 260,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000261",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 261,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000289",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 289,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000290",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 290,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000320",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 320,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000331",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 331,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000343",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 343,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000344",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 344,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000364",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 364,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000375",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 375,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000386",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 386,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000387",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 387,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000388",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 388,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f000389",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 389,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001321",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1321,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001331",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1331,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001362",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1362,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001394",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1394,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001410",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1410,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001411",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1411,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001412",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1412,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001413",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1413,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001426",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1426,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001445",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1445,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001524",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1524,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001544",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1544,
+      "negative": false
+    },
+    {
+      "frame_id": "v05_f001589",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v05",
+      "frame_index": 1589,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000117",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 117,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000118",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 118,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000119",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 119,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000148",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 148,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000149",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 149,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000179",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 179,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000195",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 195,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000208",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 208,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000209",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 209,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000228",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 228,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000238",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 238,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000249",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 249,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000261",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 261,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000262",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 262,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000276",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 276,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000277",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 277,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000288",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 288,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000300",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 300,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000304",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 304,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f000305",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 305,
+      "negative": false
+    },
+    {
+      "frame_id": "v06_f001375",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v06",
+      "frame_index": 1375,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000116",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 116,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000117",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 117,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000118",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 118,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000119",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 119,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000120",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 120,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000121",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 121,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000158",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 158,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000182",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 182,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000203",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 203,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000221",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 221,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000236",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 236,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000254",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 254,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000261",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 261,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000272",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 272,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000273",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 273,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000290",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 290,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000298",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 298,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000304",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 304,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000324",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 324,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000334",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 334,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000346",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 346,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000347",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 347,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000348",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 348,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000365",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 365,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000376",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 376,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000383",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 383,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000384",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 384,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000385",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 385,
+      "negative": false
+    },
+    {
+      "frame_id": "v07_f000422",
+      "split": "train",
+      "patient_id": "unassigned",
+      "video_id": "v07",
+      "frame_index": 422,
+      "negative": false
+    }
+  ],
+  "created_at": "20261008T142259400654Z",
+  "crop_policy": "original_full_frame",
+  "warnings": [
+    "영상 단위 탐색 실험입니다. 여러 영상이 동일 대상자일 수 있어 대상자 독립 성능으로 해석하면 안 됩니다."
+  ]
+}

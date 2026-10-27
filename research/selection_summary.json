@@ -1,0 +1,255 @@
+{
+  "decoded_frames": 15133,
+  "selected_frames": 400,
+  "unique_decoded_pixel_frames": 15133,
+  "exact_duplicate_decoded_frames": 0,
+  "minimum_selected_temporal_gap_seconds_per_video": {
+    "v01": 0.625543,
+    "v02": 0.625543,
+    "v03": 0.625543,
+    "v04": 0.625543,
+    "v05": 1.216334,
+    "v06": 0.625543,
+    "v07": 0.625543
+  },
+  "videos": [
+    {
+      "video_id": "v01",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "source_path": "source_videos/EBL_20260904_CAROTID_0002.AVI",
+      "patient_id": "unassigned",
+      "anatomy": "unconfirmed",
+      "fps": 28.775,
+      "expected_frame_count": 2164,
+      "width": 640,
+      "height": 448,
+      "codec": "MP42",
+      "timestamp_method": "zero_based_frame_index_divided_by_container_fps",
+      "decoded_frame_count": 2164,
+      "decode_failures": [],
+      "duration_seconds": 75.204170287
+    },
+    {
+      "video_id": "v02",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "source_path": "source_videos/EBL_20260904_CAROTID_0004.AVI",
+      "patient_id": "unassigned",
+      "anatomy": "unconfirmed",
+      "fps": 28.775,
+      "expected_frame_count": 2091,
+      "width": 640,
+      "height": 448,
+      "codec": "MP42",
+      "timestamp_method": "zero_based_frame_index_divided_by_container_fps",
+      "decoded_frame_count": 2091,
+      "decode_failures": [],
+      "duration_seconds": 72.667245873
+    },
+    {
+      "video_id": "v03",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "source_path": "source_videos/EBL_20260904_CAROTID_0005.AVI",
+      "patient_id": "unassigned",
+      "anatomy": "unconfirmed",
+      "fps": 28.775,
+      "expected_frame_count": 2156,
+      "width": 640,
+      "height": 448,
+      "codec": "MP42",
+      "timestamp_method": "zero_based_frame_index_divided_by_container_fps",
+      "decoded_frame_count": 2156,
+      "decode_failures": [],
+      "duration_seconds": 74.926151173
+    },
+    {
+      "video_id": "v04",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "source_path": "source_videos/EBL_20260904_CAROTID_0006.AVI",
+      "patient_id": "unassigned",
+      "anatomy": "unconfirmed",
+      "fps": 28.775,
+      "expected_frame_count": 2209,
+      "width": 640,
+      "height": 448,
+      "codec": "MP42",
+      "timestamp_method": "zero_based_frame_index_divided_by_container_fps",
+      "decoded_frame_count": 2209,
+      "decode_failures": [],
+      "duration_seconds": 76.768027802
+    },
+    {
+      "video_id": "v05",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "source_path": "source_videos/EBL_20260904_CAROTID_0007.AVI",
+      "patient_id": "unassigned",
+      "anatomy": "unconfirmed",
+      "fps": 28.775,
+      "expected_frame_count": 2095,
+      "width": 640,
+      "height": 448,
+      "codec": "MP42",
+      "timestamp_method": "zero_based_frame_index_divided_by_container_fps",
+      "decoded_frame_count": 2095,
+      "decode_failures": [],
+      "duration_seconds": 72.80625543
+    },
+    {
+      "video_id": "v06",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "source_path": "source_videos/EBL_20260904_CAROTID_0008.AVI",
+      "patient_id": "unassigned",
+      "anatomy": "unconfirmed",
+      "fps": 28.775,
+      "expected_frame_count": 2254,
+      "width": 640,
+      "height": 448,
+      "codec": "MP42",
+      "timestamp_method": "zero_based_frame_index_divided_by_container_fps",
+      "decoded_frame_count": 2254,
+      "decode_failures": [],
+      "duration_seconds": 78.331885317
+    },
+    {
+      "video_id": "v07",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "source_path": "source_videos/EBL_20260904_CAROTID_0009.AVI",
+      "patient_id": "unassigned",
+      "anatomy": "unconfirmed",
+      "fps": 28.775,
+      "expected_frame_count": 2164,
+      "width": 640,
+      "height": 448,
+      "codec": "MP42",
+      "timestamp_method": "zero_based_frame_index_divided_by_container_fps",
+      "decoded_frame_count": 2164,
+      "decode_failures": [],
+      "duration_seconds": 75.204170287
+    }
+  ],
+  "selection": {
+    "status": "provisional_candidates_requiring_human_review",
+    "target_count": 400,
+    "actual_count": 400,
+    "minimum_temporal_gap_seconds": 0.6,
+    "minimum_gap_relaxed": false,
+    "quality_roi": [
+      100,
+      125,
+      540,
+      365
+    ],
+    "scan_roi": [
+      94,
+      40,
+      545,
+      382
+    ],
+    "pixel_duplicate_policy": "exclude_exact_decoded_pixel_duplicates_across_all_videos",
+    "quality_score_is_clinical_assessment": false,
+    "quality_score_floor": 0.5,
+    "visually_reviewed_selection_ranges_seconds": {
+      "EBL_20260904_CAROTID_0002.AVI": [
+        [
+          0,
+          27.8
+        ],
+        [
+          31.2,
+          43.8
+        ],
+        [
+          48,
+          55.8
+        ],
+        [
+          60,
+          75.3
+        ]
+      ],
+      "EBL_20260904_CAROTID_0004.AVI": [
+        [
+          4.5,
+          31
+        ],
+        [
+          51,
+          55
+        ],
+        [
+          62,
+          65.5
+        ],
+        [
+          68,
+          72.7
+        ]
+      ],
+      "EBL_20260904_CAROTID_0005.AVI": [
+        [
+          9.5,
+          75
+        ]
+      ],
+      "EBL_20260904_CAROTID_0006.AVI": [
+        [
+          0,
+          11
+        ],
+        [
+          32,
+          37
+        ],
+        [
+          39,
+          41.5
+        ],
+        [
+          65,
+          71.8
+        ]
+      ],
+      "EBL_20260904_CAROTID_0007.AVI": [
+        [
+          0,
+          60
+        ]
+      ],
+      "EBL_20260904_CAROTID_0009.AVI": [
+        [
+          0,
+          18.7
+        ],
+        [
+          21.5,
+          34
+        ],
+        [
+          38.5,
+          75.3
+        ]
+      ]
+    },
+    "video_weight_multipliers": {
+      "EBL_20260904_CAROTID_0004.AVI": 0.5,
+      "EBL_20260904_CAROTID_0006.AVI": 0.3,
+      "EBL_20260904_CAROTID_0007.AVI": 0.8
+    },
+    "method": "Visually inspected ROI and first-pass candidate contact sheets; focus, contrast, dark-band visibility and regularity proxies; quality floor; visually reviewed source time ranges; quality-weighted video quotas; temporal bins; small ROI appearance-diversity bonus.",
+    "per_video": {
+      "v01": 80,
+      "v02": 38,
+      "v03": 79,
+      "v04": 17,
+      "v05": 13,
+      "v06": 94,
+      "v07": 79
+    }
+  },
+  "limitations": [
+    "File names say CAROTID; anatomical identity, cuff release, baseline/post-release phase, calibration, and patient identities are unconfirmed.",
+    "Some videos contain branching/oblique views; selection metrics cannot certify correct FMD acquisition or reliable diameter measurement.",
+    "These are provisional review candidates, not clinical labels or independently verified optimal training images.",
+    "All seven videos may belong to one person; no independent patient count or valid train/test split is established.",
+    "Timestamps use source frame index / container FPS; no cardiac phase or cuff event is inferred."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "verified_at": "2026-10-08T14:37:31.872090+00:00",
+  "training_exit_code": 0,
+  "fresh_from_original_pretrained": true,
+  "resume": false,
+  "initial_model": "pipeline/models/yolo11s-seg.pt",
+  "initial_model_sha256": "1caa81c0195412efa411b632bcfb8c184939dddb6ae41f6a80c41b211ff257c3",
+  "approved_only": true,
+  "approved_frames": 215,
+  "positive_frames": 200,
+  "negative_frames": 15,
+  "negative_labels_accepted_and_verified": true,
+  "frame_counts": {
+    "train": 162,
+    "val": 50,
+    "test": 3
+  },
+  "source_video_groups": {
+    "train": [
+      "v01",
+      "v02",
+      "v05",
+      "v06",
+      "v07"
+    ],
+    "val": [
+      "v03"
+    ],
+    "test": [
+      "v04"
+    ]
+  },
+  "split_policy": "video_group_exploratory",
+  "dataset": "snapshot_20261008T142258Z/data/export/20261008T142259400654Z/dataset.yaml",
+  "snapshot_report": "pipeline/reports/approved_training_snapshot_20261008T142258Z.json",
+  "epochs_completed": 100,
+  "requested_epochs": 100,
+  "early_stopped": false,
+  "best_weights": "research/training/weights/best.pt",
+  "best_weights_sha256": "8ad1e5f0a47e033db4115b4e0895abda7175ae0c09e08597f1d38c6bcd187d9a",
+  "last_weights": "research/training/weights/last.pt",
+  "annotations_modified_by_training": false,
+  "medical_validation": false,
+  "checkpoint_inference_verification": {
+    "inference_review_exit_code": 0,
+    "inference_review_frames": 53,
+    "inference_review_counts": {
+      "val": 50,
+      "test": 3
+    },
+    "original_resolution_masks_verified": true,
+    "model_classes_verified": {
+      "0": "lumen"
+    },
+    "review_path": "pipeline/reports/fresh_lumen_20261008T142258Z/review.json",
+    "positive_validation_frames": 49,
+    "positive_validation_mean_dice": 0.965264511480921,
+    "approved_negative_review_frames": 2,
+    "approved_negative_frames_without_predictions": 2,
+    "review_metric_note": "Existing review assigns Dice 0 to both-empty masks. Positive-only agreement and approved-negative detection are reported separately here; render/scoring code was not changed."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "model": "YOLO11s-seg",
+  "run": "fresh_lumen_20261008T142258Z",
+  "best_checkpoint": "pipeline/models/best.pt",
+  "best_checkpoint_sha256": "8ad1e5f0a47e033db4115b4e0895abda7175ae0c09e08597f1d38c6bcd187d9a",
+  "initial_checkpoint_sha256": "1caa81c0195412efa411b632bcfb8c184939dddb6ae41f6a80c41b211ff257c3",
+  "parameters": 10082675,
+  "fresh_from_original_pretrained": true,
+  "resume": false,
+  "epochs": 100,
+  "best_checkpoint_metrics_match_epoch": 87,
+  "inference_confidence": 0.25,
+  "mask_threshold": 0.5,
+  "image_dimensions": [
+    640,
+    448
+  ],
+  "split_policy": "video_group_exploratory",
+  "split_seed": 28,
+  "training_seed": 42,
+  "patient_independent_validation": false,
+  "medical_validation": false,
+  "diameter_reference_validation": false,
+  "empty_mask_policy": "Dice and IoU are null for both-empty masks. Positive-mask overlap and negative-frame empty predictions are reported separately.",
+  "splits": {
+    "train": {
+      "n": 162,
+      "positive": 149,
+      "negative": 13
+    },
+    "val": {
+      "n": 50,
+      "positive": 49,
+      "negative": 1,
+      "positive_mean_dice": 0.965264511480921,
+      "positive_mean_iou": 0.9329588710239757,
+      "empty_negative": 1,
+      "mean_dice_both_empty_one": 0.9659592212513024,
+      "mean_dice_both_empty_zero": 0.9459592212513024
+    },
+    "test": {
+      "n": 3,
+      "positive": 2,
+      "negative": 1,
+      "positive_mean_dice": 0.8566760289952962,
+      "positive_mean_iou": 0.7632836409204276,
+      "empty_negative": 1,
+      "mean_dice_both_empty_one": 0.9044506859968641,
+      "mean_dice_both_empty_zero": 0.5711173526635308
+    }
+  },
+  "ultralytics_validation_at_best_checkpoint": {
+    "metrics/precision(B)": 1.0,
+    "metrics/recall(B)": 1.0,
+    "metrics/mAP50(B)": 0.995,
+    "metrics/mAP50-95(B)": 0.93827,
+    "metrics/precision(M)": 1.0,
+    "metrics/recall(M)": 1.0,
+    "metrics/mAP50(M)": 0.995,
+    "metrics/mAP50-95(M)": 0.90387
+  },
+  "initial_candidates": 400,
+  "approved_snapshot_frames": 215,
+  "candidate_approved_overlap": 27
+}

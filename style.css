@@ -75,3 +75,5 @@ footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12
   .method p { font-size: 12px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+.research-nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin:12px 0 20px;font-size:12px;line-height:1.8}

@@ -1,0 +1,3606 @@
+{
+  "count": 400,
+  "overlap_with_approved215": 27,
+  "frames": [
+    {
+      "frame_id": "v01_f000001",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1,
+      "timestamp_seconds": 0.034752389,
+      "quality_score": 0.663047,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000001.png"
+    },
+    {
+      "frame_id": "v01_f000021",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 21,
+      "timestamp_seconds": 0.729800174,
+      "quality_score": 0.650843,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000021.png"
+    },
+    {
+      "frame_id": "v01_f000049",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 49,
+      "timestamp_seconds": 1.702867072,
+      "quality_score": 0.723409,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000049.png"
+    },
+    {
+      "frame_id": "v01_f000072",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 72,
+      "timestamp_seconds": 2.502172024,
+      "quality_score": 0.765642,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000072.png"
+    },
+    {
+      "frame_id": "v01_f000092",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 92,
+      "timestamp_seconds": 3.197219809,
+      "quality_score": 0.746436,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000092.png"
+    },
+    {
+      "frame_id": "v01_f000118",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 118,
+      "timestamp_seconds": 4.100781929,
+      "quality_score": 0.801949,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000118.png"
+    },
+    {
+      "frame_id": "v01_f000142",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 142,
+      "timestamp_seconds": 4.93483927,
+      "quality_score": 0.712633,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000142.png"
+    },
+    {
+      "frame_id": "v01_f000174",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 174,
+      "timestamp_seconds": 6.046915725,
+      "quality_score": 0.765276,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000174.png"
+    },
+    {
+      "frame_id": "v01_f000198",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 198,
+      "timestamp_seconds": 6.880973067,
+      "quality_score": 0.78471,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000198.png"
+    },
+    {
+      "frame_id": "v01_f000222",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 222,
+      "timestamp_seconds": 7.715030408,
+      "quality_score": 0.738076,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000222.png"
+    },
+    {
+      "frame_id": "v01_f000245",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 245,
+      "timestamp_seconds": 8.514335361,
+      "quality_score": 0.723533,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000245.png"
+    },
+    {
+      "frame_id": "v01_f000271",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 271,
+      "timestamp_seconds": 9.41789748,
+      "quality_score": 0.640415,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000271.png"
+    },
+    {
+      "frame_id": "v01_f000298",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 298,
+      "timestamp_seconds": 10.35621199,
+      "quality_score": 0.676494,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000298.png"
+    },
+    {
+      "frame_id": "v01_f000350",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 350,
+      "timestamp_seconds": 12.163336229,
+      "quality_score": 0.652064,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000350.png"
+    },
+    {
+      "frame_id": "v01_f000376",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 376,
+      "timestamp_seconds": 13.066898349,
+      "quality_score": 0.780316,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000376.png"
+    },
+    {
+      "frame_id": "v01_f000395",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 395,
+      "timestamp_seconds": 13.727193745,
+      "quality_score": 0.826184,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000395.png"
+    },
+    {
+      "frame_id": "v01_f000423",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 423,
+      "timestamp_seconds": 14.700260643,
+      "quality_score": 0.791676,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000423.png"
+    },
+    {
+      "frame_id": "v01_f000444",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 444,
+      "timestamp_seconds": 15.430060817,
+      "quality_score": 0.698591,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000444.png"
+    },
+    {
+      "frame_id": "v01_f000475",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 475,
+      "timestamp_seconds": 16.507384883,
+      "quality_score": 0.721742,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000475.png"
+    },
+    {
+      "frame_id": "v01_f000494",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 494,
+      "timestamp_seconds": 17.167680278,
+      "quality_score": 0.768945,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000494.png"
+    },
+    {
+      "frame_id": "v01_f000513",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 513,
+      "timestamp_seconds": 17.827975673,
+      "quality_score": 0.686814,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000513.png"
+    },
+    {
+      "frame_id": "v01_f000531",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 531,
+      "timestamp_seconds": 18.453518679,
+      "quality_score": 0.764803,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000531.png"
+    },
+    {
+      "frame_id": "v01_f000560",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 560,
+      "timestamp_seconds": 19.461337967,
+      "quality_score": 0.792865,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f000560.png"
+    },
+    {
+      "frame_id": "v01_f000579",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 579,
+      "timestamp_seconds": 20.121633362,
+      "quality_score": 0.717585,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000579.png"
+    },
+    {
+      "frame_id": "v01_f000607",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 607,
+      "timestamp_seconds": 21.094700261,
+      "quality_score": 0.77084,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000607.png"
+    },
+    {
+      "frame_id": "v01_f000626",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 626,
+      "timestamp_seconds": 21.754995656,
+      "quality_score": 0.778848,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000626.png"
+    },
+    {
+      "frame_id": "v01_f000655",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 655,
+      "timestamp_seconds": 22.762814944,
+      "quality_score": 0.796875,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000655.png"
+    },
+    {
+      "frame_id": "v01_f000674",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 674,
+      "timestamp_seconds": 23.423110339,
+      "quality_score": 0.783013,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000674.png"
+    },
+    {
+      "frame_id": "v01_f000692",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 692,
+      "timestamp_seconds": 24.048653345,
+      "quality_score": 0.758321,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000692.png"
+    },
+    {
+      "frame_id": "v01_f000714",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 714,
+      "timestamp_seconds": 24.813205908,
+      "quality_score": 0.714502,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000714.png"
+    },
+    {
+      "frame_id": "v01_f000736",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 736,
+      "timestamp_seconds": 25.577758471,
+      "quality_score": 0.746414,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000736.png"
+    },
+    {
+      "frame_id": "v01_f000754",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 754,
+      "timestamp_seconds": 26.203301477,
+      "quality_score": 0.733712,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000754.png"
+    },
+    {
+      "frame_id": "v01_f000786",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 786,
+      "timestamp_seconds": 27.315377932,
+      "quality_score": 0.735193,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000786.png"
+    },
+    {
+      "frame_id": "v01_f000899",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 899,
+      "timestamp_seconds": 31.242397915,
+      "quality_score": 0.768351,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000899.png"
+    },
+    {
+      "frame_id": "v01_f000918",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 918,
+      "timestamp_seconds": 31.90269331,
+      "quality_score": 0.794471,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000918.png"
+    },
+    {
+      "frame_id": "v01_f000936",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 936,
+      "timestamp_seconds": 32.528236316,
+      "quality_score": 0.778735,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000936.png"
+    },
+    {
+      "frame_id": "v01_f000957",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 957,
+      "timestamp_seconds": 33.25803649,
+      "quality_score": 0.791571,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000957.png"
+    },
+    {
+      "frame_id": "v01_f000975",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 975,
+      "timestamp_seconds": 33.883579496,
+      "quality_score": 0.719364,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000975.png"
+    },
+    {
+      "frame_id": "v01_f000993",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 993,
+      "timestamp_seconds": 34.509122502,
+      "quality_score": 0.743647,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f000993.png"
+    },
+    {
+      "frame_id": "v01_f001021",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1021,
+      "timestamp_seconds": 35.482189401,
+      "quality_score": 0.807261,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001021.png"
+    },
+    {
+      "frame_id": "v01_f001044",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1044,
+      "timestamp_seconds": 36.281494353,
+      "quality_score": 0.766543,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001044.png"
+    },
+    {
+      "frame_id": "v01_f001062",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1062,
+      "timestamp_seconds": 36.907037359,
+      "quality_score": 0.771179,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v01_f001062.png"
+    },
+    {
+      "frame_id": "v01_f001080",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1080,
+      "timestamp_seconds": 37.532580365,
+      "quality_score": 0.705156,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001080.png"
+    },
+    {
+      "frame_id": "v01_f001100",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1100,
+      "timestamp_seconds": 38.227628149,
+      "quality_score": 0.792938,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001100.png"
+    },
+    {
+      "frame_id": "v01_f001121",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1121,
+      "timestamp_seconds": 38.957428323,
+      "quality_score": 0.811886,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001121.png"
+    },
+    {
+      "frame_id": "v01_f001152",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1152,
+      "timestamp_seconds": 40.034752389,
+      "quality_score": 0.80771,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001152.png"
+    },
+    {
+      "frame_id": "v01_f001171",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1171,
+      "timestamp_seconds": 40.695047785,
+      "quality_score": 0.834715,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001171.png"
+    },
+    {
+      "frame_id": "v01_f001191",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1191,
+      "timestamp_seconds": 41.390095569,
+      "quality_score": 0.837861,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001191.png"
+    },
+    {
+      "frame_id": "v01_f001213",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1213,
+      "timestamp_seconds": 42.154648132,
+      "quality_score": 0.786732,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001213.png"
+    },
+    {
+      "frame_id": "v01_f001237",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1237,
+      "timestamp_seconds": 42.988705474,
+      "quality_score": 0.80049,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001237.png"
+    },
+    {
+      "frame_id": "v01_f001255",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1255,
+      "timestamp_seconds": 43.61424848,
+      "quality_score": 0.844424,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001255.png"
+    },
+    {
+      "frame_id": "v01_f001388",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1388,
+      "timestamp_seconds": 48.236316247,
+      "quality_score": 0.641843,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001388.png"
+    },
+    {
+      "frame_id": "v01_f001406",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1406,
+      "timestamp_seconds": 48.861859253,
+      "quality_score": 0.613564,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001406.png"
+    },
+    {
+      "frame_id": "v01_f001429",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1429,
+      "timestamp_seconds": 49.661164205,
+      "quality_score": 0.688438,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001429.png"
+    },
+    {
+      "frame_id": "v01_f001452",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1452,
+      "timestamp_seconds": 50.460469157,
+      "quality_score": 0.60602,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001452.png"
+    },
+    {
+      "frame_id": "v01_f001471",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1471,
+      "timestamp_seconds": 51.120764553,
+      "quality_score": 0.722835,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001471.png"
+    },
+    {
+      "frame_id": "v01_f001504",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1504,
+      "timestamp_seconds": 52.267593397,
+      "quality_score": 0.694341,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001504.png"
+    },
+    {
+      "frame_id": "v01_f001535",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1535,
+      "timestamp_seconds": 53.344917463,
+      "quality_score": 0.625117,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001535.png"
+    },
+    {
+      "frame_id": "v01_f001556",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1556,
+      "timestamp_seconds": 54.074717637,
+      "quality_score": 0.706465,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001556.png"
+    },
+    {
+      "frame_id": "v01_f001574",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1574,
+      "timestamp_seconds": 54.700260643,
+      "quality_score": 0.733418,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001574.png"
+    },
+    {
+      "frame_id": "v01_f001605",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1605,
+      "timestamp_seconds": 55.777584709,
+      "quality_score": 0.612938,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001605.png"
+    },
+    {
+      "frame_id": "v01_f001732",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1732,
+      "timestamp_seconds": 60.191138141,
+      "quality_score": 0.718101,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001732.png"
+    },
+    {
+      "frame_id": "v01_f001758",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1758,
+      "timestamp_seconds": 61.094700261,
+      "quality_score": 0.665545,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001758.png"
+    },
+    {
+      "frame_id": "v01_f001781",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1781,
+      "timestamp_seconds": 61.894005213,
+      "quality_score": 0.681014,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001781.png"
+    },
+    {
+      "frame_id": "v01_f001812",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1812,
+      "timestamp_seconds": 62.971329279,
+      "quality_score": 0.682176,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001812.png"
+    },
+    {
+      "frame_id": "v01_f001833",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1833,
+      "timestamp_seconds": 63.701129453,
+      "quality_score": 0.75901,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001833.png"
+    },
+    {
+      "frame_id": "v01_f001851",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1851,
+      "timestamp_seconds": 64.326672459,
+      "quality_score": 0.784285,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001851.png"
+    },
+    {
+      "frame_id": "v01_f001885",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1885,
+      "timestamp_seconds": 65.508253692,
+      "quality_score": 0.805905,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001885.png"
+    },
+    {
+      "frame_id": "v01_f001913",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1913,
+      "timestamp_seconds": 66.481320591,
+      "quality_score": 0.742006,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001913.png"
+    },
+    {
+      "frame_id": "v01_f001934",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1934,
+      "timestamp_seconds": 67.211120765,
+      "quality_score": 0.655832,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001934.png"
+    },
+    {
+      "frame_id": "v01_f001962",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1962,
+      "timestamp_seconds": 68.184187663,
+      "quality_score": 0.786697,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001962.png"
+    },
+    {
+      "frame_id": "v01_f001983",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 1983,
+      "timestamp_seconds": 68.913987837,
+      "quality_score": 0.855171,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f001983.png"
+    },
+    {
+      "frame_id": "v01_f002002",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2002,
+      "timestamp_seconds": 69.574283232,
+      "quality_score": 0.769349,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002002.png"
+    },
+    {
+      "frame_id": "v01_f002020",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2020,
+      "timestamp_seconds": 70.199826238,
+      "quality_score": 0.794181,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002020.png"
+    },
+    {
+      "frame_id": "v01_f002045",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2045,
+      "timestamp_seconds": 71.068635969,
+      "quality_score": 0.802262,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002045.png"
+    },
+    {
+      "frame_id": "v01_f002063",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2063,
+      "timestamp_seconds": 71.694178975,
+      "quality_score": 0.82139,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002063.png"
+    },
+    {
+      "frame_id": "v01_f002088",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2088,
+      "timestamp_seconds": 72.562988705,
+      "quality_score": 0.764903,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002088.png"
+    },
+    {
+      "frame_id": "v01_f002112",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2112,
+      "timestamp_seconds": 73.397046047,
+      "quality_score": 0.795305,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002112.png"
+    },
+    {
+      "frame_id": "v01_f002134",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2134,
+      "timestamp_seconds": 74.16159861,
+      "quality_score": 0.770967,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002134.png"
+    },
+    {
+      "frame_id": "v01_f002154",
+      "source_video": "EBL_20260904_CAROTID_0002.AVI",
+      "frame_index": 2154,
+      "timestamp_seconds": 74.856646394,
+      "quality_score": 0.799374,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v01_f002154.png"
+    },
+    {
+      "frame_id": "v02_f000136",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 136,
+      "timestamp_seconds": 4.726324935,
+      "quality_score": 0.606069,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000136.png"
+    },
+    {
+      "frame_id": "v02_f000156",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 156,
+      "timestamp_seconds": 5.421372719,
+      "quality_score": 0.655183,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000156.png"
+    },
+    {
+      "frame_id": "v02_f000176",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 176,
+      "timestamp_seconds": 6.116420504,
+      "quality_score": 0.577987,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000176.png"
+    },
+    {
+      "frame_id": "v02_f000215",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 215,
+      "timestamp_seconds": 7.471763684,
+      "quality_score": 0.516659,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000215.png"
+    },
+    {
+      "frame_id": "v02_f000254",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 254,
+      "timestamp_seconds": 8.827106864,
+      "quality_score": 0.540936,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000254.png"
+    },
+    {
+      "frame_id": "v02_f000272",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 272,
+      "timestamp_seconds": 9.45264987,
+      "quality_score": 0.578909,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000272.png"
+    },
+    {
+      "frame_id": "v02_f000291",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 291,
+      "timestamp_seconds": 10.112945265,
+      "quality_score": 0.565718,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000291.png"
+    },
+    {
+      "frame_id": "v02_f000361",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 361,
+      "timestamp_seconds": 12.545612511,
+      "quality_score": 0.600646,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000361.png"
+    },
+    {
+      "frame_id": "v02_f000384",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 384,
+      "timestamp_seconds": 13.344917463,
+      "quality_score": 0.529302,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000384.png"
+    },
+    {
+      "frame_id": "v02_f000402",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 402,
+      "timestamp_seconds": 13.970460469,
+      "quality_score": 0.539989,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000402.png"
+    },
+    {
+      "frame_id": "v02_f000420",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 420,
+      "timestamp_seconds": 14.596003475,
+      "quality_score": 0.536967,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000420.png"
+    },
+    {
+      "frame_id": "v02_f000469",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 469,
+      "timestamp_seconds": 16.298870547,
+      "quality_score": 0.529389,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000469.png"
+    },
+    {
+      "frame_id": "v02_f000545",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 545,
+      "timestamp_seconds": 18.940052129,
+      "quality_score": 0.532459,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000545.png"
+    },
+    {
+      "frame_id": "v02_f000568",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 568,
+      "timestamp_seconds": 19.739357081,
+      "quality_score": 0.551792,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000568.png"
+    },
+    {
+      "frame_id": "v02_f000588",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 588,
+      "timestamp_seconds": 20.434404865,
+      "quality_score": 0.540149,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000588.png"
+    },
+    {
+      "frame_id": "v02_f000656",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 656,
+      "timestamp_seconds": 22.797567333,
+      "quality_score": 0.597675,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000656.png"
+    },
+    {
+      "frame_id": "v02_f000684",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 684,
+      "timestamp_seconds": 23.770634231,
+      "quality_score": 0.566084,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000684.png"
+    },
+    {
+      "frame_id": "v02_f000702",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 702,
+      "timestamp_seconds": 24.396177237,
+      "quality_score": 0.550942,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000702.png"
+    },
+    {
+      "frame_id": "v02_f000743",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 743,
+      "timestamp_seconds": 25.821025195,
+      "quality_score": 0.553777,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000743.png"
+    },
+    {
+      "frame_id": "v02_f000772",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 772,
+      "timestamp_seconds": 26.828844483,
+      "quality_score": 0.525564,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000772.png"
+    },
+    {
+      "frame_id": "v02_f000797",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 797,
+      "timestamp_seconds": 27.697654214,
+      "quality_score": 0.613419,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000797.png"
+    },
+    {
+      "frame_id": "v02_f000820",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 820,
+      "timestamp_seconds": 28.496959166,
+      "quality_score": 0.56003,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000820.png"
+    },
+    {
+      "frame_id": "v02_f000843",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 843,
+      "timestamp_seconds": 29.296264118,
+      "quality_score": 0.562359,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000843.png"
+    },
+    {
+      "frame_id": "v02_f000865",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 865,
+      "timestamp_seconds": 30.060816681,
+      "quality_score": 0.528815,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f000865.png"
+    },
+    {
+      "frame_id": "v02_f001507",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1507,
+      "timestamp_seconds": 52.371850565,
+      "quality_score": 0.551232,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001507.png"
+    },
+    {
+      "frame_id": "v02_f001536",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1536,
+      "timestamp_seconds": 53.379669852,
+      "quality_score": 0.518887,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001536.png"
+    },
+    {
+      "frame_id": "v02_f001557",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1557,
+      "timestamp_seconds": 54.109470026,
+      "quality_score": 0.567983,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001557.png"
+    },
+    {
+      "frame_id": "v02_f001576",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1576,
+      "timestamp_seconds": 54.769765421,
+      "quality_score": 0.548444,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001576.png"
+    },
+    {
+      "frame_id": "v02_f001785",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1785,
+      "timestamp_seconds": 62.03301477,
+      "quality_score": 0.524295,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001785.png"
+    },
+    {
+      "frame_id": "v02_f001809",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1809,
+      "timestamp_seconds": 62.867072111,
+      "quality_score": 0.629182,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001809.png"
+    },
+    {
+      "frame_id": "v02_f001853",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1853,
+      "timestamp_seconds": 64.396177237,
+      "quality_score": 0.545752,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001853.png"
+    },
+    {
+      "frame_id": "v02_f001871",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1871,
+      "timestamp_seconds": 65.021720243,
+      "quality_score": 0.535269,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001871.png"
+    },
+    {
+      "frame_id": "v02_f001961",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1961,
+      "timestamp_seconds": 68.149435274,
+      "quality_score": 0.555185,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001961.png"
+    },
+    {
+      "frame_id": "v02_f001991",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 1991,
+      "timestamp_seconds": 69.19200695,
+      "quality_score": 0.519048,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f001991.png"
+    },
+    {
+      "frame_id": "v02_f002009",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 2009,
+      "timestamp_seconds": 69.817549957,
+      "quality_score": 0.521088,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f002009.png"
+    },
+    {
+      "frame_id": "v02_f002039",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 2039,
+      "timestamp_seconds": 70.860121633,
+      "quality_score": 0.625442,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f002039.png"
+    },
+    {
+      "frame_id": "v02_f002058",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 2058,
+      "timestamp_seconds": 71.520417029,
+      "quality_score": 0.650458,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f002058.png"
+    },
+    {
+      "frame_id": "v02_f002090",
+      "source_video": "EBL_20260904_CAROTID_0004.AVI",
+      "frame_index": 2090,
+      "timestamp_seconds": 72.632493484,
+      "quality_score": 0.569999,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v02_f002090.png"
+    },
+    {
+      "frame_id": "v03_f000275",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 275,
+      "timestamp_seconds": 9.556907037,
+      "quality_score": 0.698554,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000275.png"
+    },
+    {
+      "frame_id": "v03_f000298",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 298,
+      "timestamp_seconds": 10.35621199,
+      "quality_score": 0.761971,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v03_f000298.png"
+    },
+    {
+      "frame_id": "v03_f000318",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 318,
+      "timestamp_seconds": 11.051259774,
+      "quality_score": 0.633159,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000318.png"
+    },
+    {
+      "frame_id": "v03_f000346",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 346,
+      "timestamp_seconds": 12.024326672,
+      "quality_score": 0.7473,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000346.png"
+    },
+    {
+      "frame_id": "v03_f000375",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 375,
+      "timestamp_seconds": 13.03214596,
+      "quality_score": 0.741436,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000375.png"
+    },
+    {
+      "frame_id": "v03_f000401",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 401,
+      "timestamp_seconds": 13.93570808,
+      "quality_score": 0.751189,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000401.png"
+    },
+    {
+      "frame_id": "v03_f000425",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 425,
+      "timestamp_seconds": 14.769765421,
+      "quality_score": 0.758939,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000425.png"
+    },
+    {
+      "frame_id": "v03_f000449",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 449,
+      "timestamp_seconds": 15.603822763,
+      "quality_score": 0.744175,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000449.png"
+    },
+    {
+      "frame_id": "v03_f000475",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 475,
+      "timestamp_seconds": 16.507384883,
+      "quality_score": 0.750212,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000475.png"
+    },
+    {
+      "frame_id": "v03_f000499",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 499,
+      "timestamp_seconds": 17.341442224,
+      "quality_score": 0.702903,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000499.png"
+    },
+    {
+      "frame_id": "v03_f000530",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 530,
+      "timestamp_seconds": 18.41876629,
+      "quality_score": 0.768975,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000530.png"
+    },
+    {
+      "frame_id": "v03_f000549",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 549,
+      "timestamp_seconds": 19.079061685,
+      "quality_score": 0.771556,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000549.png"
+    },
+    {
+      "frame_id": "v03_f000576",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 576,
+      "timestamp_seconds": 20.017376195,
+      "quality_score": 0.834118,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000576.png"
+    },
+    {
+      "frame_id": "v03_f000603",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 603,
+      "timestamp_seconds": 20.955690704,
+      "quality_score": 0.745445,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000603.png"
+    },
+    {
+      "frame_id": "v03_f000621",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 621,
+      "timestamp_seconds": 21.58123371,
+      "quality_score": 0.821137,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000621.png"
+    },
+    {
+      "frame_id": "v03_f000643",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 643,
+      "timestamp_seconds": 22.345786273,
+      "quality_score": 0.817008,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000643.png"
+    },
+    {
+      "frame_id": "v03_f000661",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 661,
+      "timestamp_seconds": 22.971329279,
+      "quality_score": 0.800925,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000661.png"
+    },
+    {
+      "frame_id": "v03_f000681",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 681,
+      "timestamp_seconds": 23.666377063,
+      "quality_score": 0.786121,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000681.png"
+    },
+    {
+      "frame_id": "v03_f000701",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 701,
+      "timestamp_seconds": 24.361424848,
+      "quality_score": 0.752312,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000701.png"
+    },
+    {
+      "frame_id": "v03_f000727",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 727,
+      "timestamp_seconds": 25.264986968,
+      "quality_score": 0.801928,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000727.png"
+    },
+    {
+      "frame_id": "v03_f000753",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 753,
+      "timestamp_seconds": 26.168549088,
+      "quality_score": 0.843118,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000753.png"
+    },
+    {
+      "frame_id": "v03_f000778",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 778,
+      "timestamp_seconds": 27.037358818,
+      "quality_score": 0.806588,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000778.png"
+    },
+    {
+      "frame_id": "v03_f000798",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 798,
+      "timestamp_seconds": 27.732406603,
+      "quality_score": 0.734124,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000798.png"
+    },
+    {
+      "frame_id": "v03_f000817",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 817,
+      "timestamp_seconds": 28.392701998,
+      "quality_score": 0.763078,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000817.png"
+    },
+    {
+      "frame_id": "v03_f000835",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 835,
+      "timestamp_seconds": 29.018245004,
+      "quality_score": 0.697846,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000835.png"
+    },
+    {
+      "frame_id": "v03_f000855",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 855,
+      "timestamp_seconds": 29.713292789,
+      "quality_score": 0.837643,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000855.png"
+    },
+    {
+      "frame_id": "v03_f000879",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 879,
+      "timestamp_seconds": 30.54735013,
+      "quality_score": 0.848937,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000879.png"
+    },
+    {
+      "frame_id": "v03_f000899",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 899,
+      "timestamp_seconds": 31.242397915,
+      "quality_score": 0.811213,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000899.png"
+    },
+    {
+      "frame_id": "v03_f000924",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 924,
+      "timestamp_seconds": 32.111207646,
+      "quality_score": 0.807925,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000924.png"
+    },
+    {
+      "frame_id": "v03_f000951",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 951,
+      "timestamp_seconds": 33.049522155,
+      "quality_score": 0.800148,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000951.png"
+    },
+    {
+      "frame_id": "v03_f000970",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 970,
+      "timestamp_seconds": 33.70981755,
+      "quality_score": 0.807182,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f000970.png"
+    },
+    {
+      "frame_id": "v03_f001004",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1004,
+      "timestamp_seconds": 34.891398784,
+      "quality_score": 0.837732,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001004.png"
+    },
+    {
+      "frame_id": "v03_f001022",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1022,
+      "timestamp_seconds": 35.51694179,
+      "quality_score": 0.837554,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001022.png"
+    },
+    {
+      "frame_id": "v03_f001055",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1055,
+      "timestamp_seconds": 36.663770634,
+      "quality_score": 0.846267,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001055.png"
+    },
+    {
+      "frame_id": "v03_f001075",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1075,
+      "timestamp_seconds": 37.358818419,
+      "quality_score": 0.826255,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001075.png"
+    },
+    {
+      "frame_id": "v03_f001103",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1103,
+      "timestamp_seconds": 38.331885317,
+      "quality_score": 0.818736,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001103.png"
+    },
+    {
+      "frame_id": "v03_f001129",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1129,
+      "timestamp_seconds": 39.235447437,
+      "quality_score": 0.849437,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001129.png"
+    },
+    {
+      "frame_id": "v03_f001154",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1154,
+      "timestamp_seconds": 40.104257168,
+      "quality_score": 0.838226,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001154.png"
+    },
+    {
+      "frame_id": "v03_f001172",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1172,
+      "timestamp_seconds": 40.729800174,
+      "quality_score": 0.825196,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001172.png"
+    },
+    {
+      "frame_id": "v03_f001196",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1196,
+      "timestamp_seconds": 41.563857515,
+      "quality_score": 0.838759,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001196.png"
+    },
+    {
+      "frame_id": "v03_f001228",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1228,
+      "timestamp_seconds": 42.67593397,
+      "quality_score": 0.837751,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001228.png"
+    },
+    {
+      "frame_id": "v03_f001246",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1246,
+      "timestamp_seconds": 43.301476977,
+      "quality_score": 0.820264,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001246.png"
+    },
+    {
+      "frame_id": "v03_f001264",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1264,
+      "timestamp_seconds": 43.927019983,
+      "quality_score": 0.837607,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001264.png"
+    },
+    {
+      "frame_id": "v03_f001297",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1297,
+      "timestamp_seconds": 45.073848827,
+      "quality_score": 0.776698,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001297.png"
+    },
+    {
+      "frame_id": "v03_f001315",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1315,
+      "timestamp_seconds": 45.699391833,
+      "quality_score": 0.745961,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v03_f001315.png"
+    },
+    {
+      "frame_id": "v03_f001340",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1340,
+      "timestamp_seconds": 46.568201564,
+      "quality_score": 0.822325,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001340.png"
+    },
+    {
+      "frame_id": "v03_f001367",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1367,
+      "timestamp_seconds": 47.506516073,
+      "quality_score": 0.77577,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001367.png"
+    },
+    {
+      "frame_id": "v03_f001395",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1395,
+      "timestamp_seconds": 48.479582971,
+      "quality_score": 0.80756,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001395.png"
+    },
+    {
+      "frame_id": "v03_f001430",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1430,
+      "timestamp_seconds": 49.695916594,
+      "quality_score": 0.819627,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001430.png"
+    },
+    {
+      "frame_id": "v03_f001452",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1452,
+      "timestamp_seconds": 50.460469157,
+      "quality_score": 0.791804,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001452.png"
+    },
+    {
+      "frame_id": "v03_f001472",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1472,
+      "timestamp_seconds": 51.155516942,
+      "quality_score": 0.821428,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001472.png"
+    },
+    {
+      "frame_id": "v03_f001496",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1496,
+      "timestamp_seconds": 51.989574283,
+      "quality_score": 0.839028,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001496.png"
+    },
+    {
+      "frame_id": "v03_f001514",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1514,
+      "timestamp_seconds": 52.615117289,
+      "quality_score": 0.812882,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001514.png"
+    },
+    {
+      "frame_id": "v03_f001547",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1547,
+      "timestamp_seconds": 53.761946134,
+      "quality_score": 0.783751,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001547.png"
+    },
+    {
+      "frame_id": "v03_f001567",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1567,
+      "timestamp_seconds": 54.456993918,
+      "quality_score": 0.807577,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001567.png"
+    },
+    {
+      "frame_id": "v03_f001598",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1598,
+      "timestamp_seconds": 55.534317984,
+      "quality_score": 0.85141,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001598.png"
+    },
+    {
+      "frame_id": "v03_f001628",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1628,
+      "timestamp_seconds": 56.576889661,
+      "quality_score": 0.832868,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001628.png"
+    },
+    {
+      "frame_id": "v03_f001646",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1646,
+      "timestamp_seconds": 57.202432667,
+      "quality_score": 0.799389,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001646.png"
+    },
+    {
+      "frame_id": "v03_f001665",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1665,
+      "timestamp_seconds": 57.862728063,
+      "quality_score": 0.839149,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001665.png"
+    },
+    {
+      "frame_id": "v03_f001698",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1698,
+      "timestamp_seconds": 59.009556907,
+      "quality_score": 0.844373,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001698.png"
+    },
+    {
+      "frame_id": "v03_f001724",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1724,
+      "timestamp_seconds": 59.913119027,
+      "quality_score": 0.824025,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001724.png"
+    },
+    {
+      "frame_id": "v03_f001742",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1742,
+      "timestamp_seconds": 60.538662033,
+      "quality_score": 0.772897,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001742.png"
+    },
+    {
+      "frame_id": "v03_f001775",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1775,
+      "timestamp_seconds": 61.685490877,
+      "quality_score": 0.742619,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001775.png"
+    },
+    {
+      "frame_id": "v03_f001801",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1801,
+      "timestamp_seconds": 62.589052997,
+      "quality_score": 0.770594,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001801.png"
+    },
+    {
+      "frame_id": "v03_f001824",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1824,
+      "timestamp_seconds": 63.38835795,
+      "quality_score": 0.766367,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001824.png"
+    },
+    {
+      "frame_id": "v03_f001844",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1844,
+      "timestamp_seconds": 64.083405734,
+      "quality_score": 0.710355,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001844.png"
+    },
+    {
+      "frame_id": "v03_f001873",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1873,
+      "timestamp_seconds": 65.091225022,
+      "quality_score": 0.775181,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001873.png"
+    },
+    {
+      "frame_id": "v03_f001891",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1891,
+      "timestamp_seconds": 65.716768028,
+      "quality_score": 0.73058,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001891.png"
+    },
+    {
+      "frame_id": "v03_f001910",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1910,
+      "timestamp_seconds": 66.377063423,
+      "quality_score": 0.74672,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001910.png"
+    },
+    {
+      "frame_id": "v03_f001929",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1929,
+      "timestamp_seconds": 67.037358818,
+      "quality_score": 0.717931,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001929.png"
+    },
+    {
+      "frame_id": "v03_f001952",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1952,
+      "timestamp_seconds": 67.836663771,
+      "quality_score": 0.813955,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001952.png"
+    },
+    {
+      "frame_id": "v03_f001978",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 1978,
+      "timestamp_seconds": 68.740225891,
+      "quality_score": 0.657911,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f001978.png"
+    },
+    {
+      "frame_id": "v03_f002003",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 2003,
+      "timestamp_seconds": 69.609035621,
+      "quality_score": 0.764238,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f002003.png"
+    },
+    {
+      "frame_id": "v03_f002026",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 2026,
+      "timestamp_seconds": 70.408340573,
+      "quality_score": 0.749333,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f002026.png"
+    },
+    {
+      "frame_id": "v03_f002051",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 2051,
+      "timestamp_seconds": 71.277150304,
+      "quality_score": 0.81391,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f002051.png"
+    },
+    {
+      "frame_id": "v03_f002076",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 2076,
+      "timestamp_seconds": 72.145960035,
+      "quality_score": 0.786522,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f002076.png"
+    },
+    {
+      "frame_id": "v03_f002099",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 2099,
+      "timestamp_seconds": 72.945264987,
+      "quality_score": 0.817623,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f002099.png"
+    },
+    {
+      "frame_id": "v03_f002130",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 2130,
+      "timestamp_seconds": 74.022589053,
+      "quality_score": 0.810821,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f002130.png"
+    },
+    {
+      "frame_id": "v03_f002155",
+      "source_video": "EBL_20260904_CAROTID_0005.AVI",
+      "frame_index": 2155,
+      "timestamp_seconds": 74.891398784,
+      "quality_score": 0.821708,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v03_f002155.png"
+    },
+    {
+      "frame_id": "v04_f000017",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 17,
+      "timestamp_seconds": 0.590790617,
+      "quality_score": 0.565486,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000017.png"
+    },
+    {
+      "frame_id": "v04_f000035",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 35,
+      "timestamp_seconds": 1.216333623,
+      "quality_score": 0.516322,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000035.png"
+    },
+    {
+      "frame_id": "v04_f000090",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 90,
+      "timestamp_seconds": 3.12771503,
+      "quality_score": 0.543218,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000090.png"
+    },
+    {
+      "frame_id": "v04_f000112",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 112,
+      "timestamp_seconds": 3.892267593,
+      "quality_score": 0.562039,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000112.png"
+    },
+    {
+      "frame_id": "v04_f000130",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 130,
+      "timestamp_seconds": 4.517810599,
+      "quality_score": 0.51694,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000130.png"
+    },
+    {
+      "frame_id": "v04_f000148",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 148,
+      "timestamp_seconds": 5.143353606,
+      "quality_score": 0.520669,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000148.png"
+    },
+    {
+      "frame_id": "v04_f000169",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 169,
+      "timestamp_seconds": 5.873153779,
+      "quality_score": 0.500882,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000169.png"
+    },
+    {
+      "frame_id": "v04_f000187",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 187,
+      "timestamp_seconds": 6.498696785,
+      "quality_score": 0.60474,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000187.png"
+    },
+    {
+      "frame_id": "v04_f000300",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 300,
+      "timestamp_seconds": 10.425716768,
+      "quality_score": 0.51431,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000300.png"
+    },
+    {
+      "frame_id": "v04_f000921",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 921,
+      "timestamp_seconds": 32.006950478,
+      "quality_score": 0.528933,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f000921.png"
+    },
+    {
+      "frame_id": "v04_f001044",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 1044,
+      "timestamp_seconds": 36.281494353,
+      "quality_score": 0.510153,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f001044.png"
+    },
+    {
+      "frame_id": "v04_f001155",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 1155,
+      "timestamp_seconds": 40.139009557,
+      "quality_score": 0.596332,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f001155.png"
+    },
+    {
+      "frame_id": "v04_f001895",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 1895,
+      "timestamp_seconds": 65.855777585,
+      "quality_score": 0.613253,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f001895.png"
+    },
+    {
+      "frame_id": "v04_f001914",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 1914,
+      "timestamp_seconds": 66.51607298,
+      "quality_score": 0.583647,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f001914.png"
+    },
+    {
+      "frame_id": "v04_f001933",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 1933,
+      "timestamp_seconds": 67.176368375,
+      "quality_score": 0.632652,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f001933.png"
+    },
+    {
+      "frame_id": "v04_f002006",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 2006,
+      "timestamp_seconds": 69.713292789,
+      "quality_score": 0.547356,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f002006.png"
+    },
+    {
+      "frame_id": "v04_f002034",
+      "source_video": "EBL_20260904_CAROTID_0006.AVI",
+      "frame_index": 2034,
+      "timestamp_seconds": 70.686359687,
+      "quality_score": 0.595479,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v04_f002034.png"
+    },
+    {
+      "frame_id": "v05_f000009",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 9,
+      "timestamp_seconds": 0.312771503,
+      "quality_score": 0.505991,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f000009.png"
+    },
+    {
+      "frame_id": "v05_f000064",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 64,
+      "timestamp_seconds": 2.224152911,
+      "quality_score": 0.513743,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v05_f000064.png"
+    },
+    {
+      "frame_id": "v05_f000159",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 159,
+      "timestamp_seconds": 5.525629887,
+      "quality_score": 0.500164,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f000159.png"
+    },
+    {
+      "frame_id": "v05_f000278",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 278,
+      "timestamp_seconds": 9.661164205,
+      "quality_score": 0.515626,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f000278.png"
+    },
+    {
+      "frame_id": "v05_f000318",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 318,
+      "timestamp_seconds": 11.051259774,
+      "quality_score": 0.546203,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f000318.png"
+    },
+    {
+      "frame_id": "v05_f000386",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 386,
+      "timestamp_seconds": 13.414422242,
+      "quality_score": 0.52166,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v05_f000386.png"
+    },
+    {
+      "frame_id": "v05_f000421",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 421,
+      "timestamp_seconds": 14.630755864,
+      "quality_score": 0.536579,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f000421.png"
+    },
+    {
+      "frame_id": "v05_f000644",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 644,
+      "timestamp_seconds": 22.380538662,
+      "quality_score": 0.502589,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f000644.png"
+    },
+    {
+      "frame_id": "v05_f000847",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 847,
+      "timestamp_seconds": 29.435273675,
+      "quality_score": 0.555843,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f000847.png"
+    },
+    {
+      "frame_id": "v05_f001038",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 1038,
+      "timestamp_seconds": 36.072980017,
+      "quality_score": 0.536254,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f001038.png"
+    },
+    {
+      "frame_id": "v05_f001237",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 1237,
+      "timestamp_seconds": 42.988705474,
+      "quality_score": 0.527451,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f001237.png"
+    },
+    {
+      "frame_id": "v05_f001346",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 1346,
+      "timestamp_seconds": 46.776715899,
+      "quality_score": 0.538596,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f001346.png"
+    },
+    {
+      "frame_id": "v05_f001437",
+      "source_video": "EBL_20260904_CAROTID_0007.AVI",
+      "frame_index": 1437,
+      "timestamp_seconds": 49.939183319,
+      "quality_score": 0.501188,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v05_f001437.png"
+    },
+    {
+      "frame_id": "v06_f000000",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 0,
+      "timestamp_seconds": 0.0,
+      "quality_score": 0.815491,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000000.png"
+    },
+    {
+      "frame_id": "v06_f000031",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 31,
+      "timestamp_seconds": 1.077324066,
+      "quality_score": 0.793713,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000031.png"
+    },
+    {
+      "frame_id": "v06_f000052",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 52,
+      "timestamp_seconds": 1.80712424,
+      "quality_score": 0.821327,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000052.png"
+    },
+    {
+      "frame_id": "v06_f000070",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 70,
+      "timestamp_seconds": 2.432667246,
+      "quality_score": 0.764628,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000070.png"
+    },
+    {
+      "frame_id": "v06_f000091",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 91,
+      "timestamp_seconds": 3.16246742,
+      "quality_score": 0.800775,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000091.png"
+    },
+    {
+      "frame_id": "v06_f000119",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 119,
+      "timestamp_seconds": 4.135534318,
+      "quality_score": 0.803367,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v06_f000119.png"
+    },
+    {
+      "frame_id": "v06_f000138",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 138,
+      "timestamp_seconds": 4.795829713,
+      "quality_score": 0.83419,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000138.png"
+    },
+    {
+      "frame_id": "v06_f000158",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 158,
+      "timestamp_seconds": 5.490877498,
+      "quality_score": 0.832805,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000158.png"
+    },
+    {
+      "frame_id": "v06_f000176",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 176,
+      "timestamp_seconds": 6.116420504,
+      "quality_score": 0.842796,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000176.png"
+    },
+    {
+      "frame_id": "v06_f000209",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 209,
+      "timestamp_seconds": 7.263249348,
+      "quality_score": 0.818063,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v06_f000209.png"
+    },
+    {
+      "frame_id": "v06_f000229",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 229,
+      "timestamp_seconds": 7.958297133,
+      "quality_score": 0.836108,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000229.png"
+    },
+    {
+      "frame_id": "v06_f000249",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 249,
+      "timestamp_seconds": 8.653344917,
+      "quality_score": 0.780486,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v06_f000249.png"
+    },
+    {
+      "frame_id": "v06_f000284",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 284,
+      "timestamp_seconds": 9.86967854,
+      "quality_score": 0.875809,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000284.png"
+    },
+    {
+      "frame_id": "v06_f000309",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 309,
+      "timestamp_seconds": 10.738488271,
+      "quality_score": 0.863904,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000309.png"
+    },
+    {
+      "frame_id": "v06_f000330",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 330,
+      "timestamp_seconds": 11.468288445,
+      "quality_score": 0.819818,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000330.png"
+    },
+    {
+      "frame_id": "v06_f000348",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 348,
+      "timestamp_seconds": 12.093831451,
+      "quality_score": 0.886794,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000348.png"
+    },
+    {
+      "frame_id": "v06_f000376",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 376,
+      "timestamp_seconds": 13.066898349,
+      "quality_score": 0.865305,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000376.png"
+    },
+    {
+      "frame_id": "v06_f000395",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 395,
+      "timestamp_seconds": 13.727193745,
+      "quality_score": 0.835761,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000395.png"
+    },
+    {
+      "frame_id": "v06_f000418",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 418,
+      "timestamp_seconds": 14.526498697,
+      "quality_score": 0.884917,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000418.png"
+    },
+    {
+      "frame_id": "v06_f000437",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 437,
+      "timestamp_seconds": 15.186794092,
+      "quality_score": 0.870986,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000437.png"
+    },
+    {
+      "frame_id": "v06_f000459",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 459,
+      "timestamp_seconds": 15.951346655,
+      "quality_score": 0.808983,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000459.png"
+    },
+    {
+      "frame_id": "v06_f000479",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 479,
+      "timestamp_seconds": 16.64639444,
+      "quality_score": 0.823016,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000479.png"
+    },
+    {
+      "frame_id": "v06_f000497",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 497,
+      "timestamp_seconds": 17.271937446,
+      "quality_score": 0.819066,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000497.png"
+    },
+    {
+      "frame_id": "v06_f000530",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 530,
+      "timestamp_seconds": 18.41876629,
+      "quality_score": 0.822444,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000530.png"
+    },
+    {
+      "frame_id": "v06_f000560",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 560,
+      "timestamp_seconds": 19.461337967,
+      "quality_score": 0.843175,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000560.png"
+    },
+    {
+      "frame_id": "v06_f000586",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 586,
+      "timestamp_seconds": 20.364900087,
+      "quality_score": 0.838525,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000586.png"
+    },
+    {
+      "frame_id": "v06_f000607",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 607,
+      "timestamp_seconds": 21.094700261,
+      "quality_score": 0.880902,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000607.png"
+    },
+    {
+      "frame_id": "v06_f000634",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 634,
+      "timestamp_seconds": 22.03301477,
+      "quality_score": 0.866969,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000634.png"
+    },
+    {
+      "frame_id": "v06_f000654",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 654,
+      "timestamp_seconds": 22.728062554,
+      "quality_score": 0.839207,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000654.png"
+    },
+    {
+      "frame_id": "v06_f000674",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 674,
+      "timestamp_seconds": 23.423110339,
+      "quality_score": 0.860314,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000674.png"
+    },
+    {
+      "frame_id": "v06_f000700",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 700,
+      "timestamp_seconds": 24.326672459,
+      "quality_score": 0.858176,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000700.png"
+    },
+    {
+      "frame_id": "v06_f000725",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 725,
+      "timestamp_seconds": 25.195482189,
+      "quality_score": 0.849008,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000725.png"
+    },
+    {
+      "frame_id": "v06_f000743",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 743,
+      "timestamp_seconds": 25.821025195,
+      "quality_score": 0.854507,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000743.png"
+    },
+    {
+      "frame_id": "v06_f000771",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 771,
+      "timestamp_seconds": 26.794092094,
+      "quality_score": 0.866771,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000771.png"
+    },
+    {
+      "frame_id": "v06_f000803",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 803,
+      "timestamp_seconds": 27.906168549,
+      "quality_score": 0.86469,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000803.png"
+    },
+    {
+      "frame_id": "v06_f000834",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 834,
+      "timestamp_seconds": 28.983492615,
+      "quality_score": 0.859571,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000834.png"
+    },
+    {
+      "frame_id": "v06_f000854",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 854,
+      "timestamp_seconds": 29.6785404,
+      "quality_score": 0.843834,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000854.png"
+    },
+    {
+      "frame_id": "v06_f000878",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 878,
+      "timestamp_seconds": 30.512597741,
+      "quality_score": 0.862039,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000878.png"
+    },
+    {
+      "frame_id": "v06_f000912",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 912,
+      "timestamp_seconds": 31.694178975,
+      "quality_score": 0.808087,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000912.png"
+    },
+    {
+      "frame_id": "v06_f000931",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 931,
+      "timestamp_seconds": 32.35447437,
+      "quality_score": 0.767306,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000931.png"
+    },
+    {
+      "frame_id": "v06_f000954",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 954,
+      "timestamp_seconds": 33.153779322,
+      "quality_score": 0.739112,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000954.png"
+    },
+    {
+      "frame_id": "v06_f000989",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 989,
+      "timestamp_seconds": 34.370112945,
+      "quality_score": 0.854248,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f000989.png"
+    },
+    {
+      "frame_id": "v06_f001007",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1007,
+      "timestamp_seconds": 34.995655951,
+      "quality_score": 0.809796,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001007.png"
+    },
+    {
+      "frame_id": "v06_f001025",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1025,
+      "timestamp_seconds": 35.621198957,
+      "quality_score": 0.843811,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001025.png"
+    },
+    {
+      "frame_id": "v06_f001043",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1043,
+      "timestamp_seconds": 36.246741964,
+      "quality_score": 0.818268,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001043.png"
+    },
+    {
+      "frame_id": "v06_f001069",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1069,
+      "timestamp_seconds": 37.150304083,
+      "quality_score": 0.811859,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001069.png"
+    },
+    {
+      "frame_id": "v06_f001093",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1093,
+      "timestamp_seconds": 37.984361425,
+      "quality_score": 0.79829,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001093.png"
+    },
+    {
+      "frame_id": "v06_f001112",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1112,
+      "timestamp_seconds": 38.64465682,
+      "quality_score": 0.763401,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001112.png"
+    },
+    {
+      "frame_id": "v06_f001132",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1132,
+      "timestamp_seconds": 39.339704605,
+      "quality_score": 0.822088,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001132.png"
+    },
+    {
+      "frame_id": "v06_f001156",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1156,
+      "timestamp_seconds": 40.173761946,
+      "quality_score": 0.767675,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001156.png"
+    },
+    {
+      "frame_id": "v06_f001185",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1185,
+      "timestamp_seconds": 41.181581234,
+      "quality_score": 0.834957,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001185.png"
+    },
+    {
+      "frame_id": "v06_f001205",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1205,
+      "timestamp_seconds": 41.876629018,
+      "quality_score": 0.873331,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001205.png"
+    },
+    {
+      "frame_id": "v06_f001240",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1240,
+      "timestamp_seconds": 43.092962641,
+      "quality_score": 0.873155,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001240.png"
+    },
+    {
+      "frame_id": "v06_f001258",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1258,
+      "timestamp_seconds": 43.718505647,
+      "quality_score": 0.842538,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001258.png"
+    },
+    {
+      "frame_id": "v06_f001287",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1287,
+      "timestamp_seconds": 44.726324935,
+      "quality_score": 0.869197,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001287.png"
+    },
+    {
+      "frame_id": "v06_f001322",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1322,
+      "timestamp_seconds": 45.942658558,
+      "quality_score": 0.839249,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001322.png"
+    },
+    {
+      "frame_id": "v06_f001347",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1347,
+      "timestamp_seconds": 46.811468288,
+      "quality_score": 0.782384,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001347.png"
+    },
+    {
+      "frame_id": "v06_f001371",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1371,
+      "timestamp_seconds": 47.64552563,
+      "quality_score": 0.801959,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001371.png"
+    },
+    {
+      "frame_id": "v06_f001401",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1401,
+      "timestamp_seconds": 48.688097307,
+      "quality_score": 0.878181,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001401.png"
+    },
+    {
+      "frame_id": "v06_f001430",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1430,
+      "timestamp_seconds": 49.695916594,
+      "quality_score": 0.851313,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001430.png"
+    },
+    {
+      "frame_id": "v06_f001457",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1457,
+      "timestamp_seconds": 50.634231103,
+      "quality_score": 0.80307,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001457.png"
+    },
+    {
+      "frame_id": "v06_f001478",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1478,
+      "timestamp_seconds": 51.364031277,
+      "quality_score": 0.757737,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001478.png"
+    },
+    {
+      "frame_id": "v06_f001497",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1497,
+      "timestamp_seconds": 52.024326672,
+      "quality_score": 0.835648,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001497.png"
+    },
+    {
+      "frame_id": "v06_f001516",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1516,
+      "timestamp_seconds": 52.684622068,
+      "quality_score": 0.753449,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001516.png"
+    },
+    {
+      "frame_id": "v06_f001534",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1534,
+      "timestamp_seconds": 53.310165074,
+      "quality_score": 0.825373,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001534.png"
+    },
+    {
+      "frame_id": "v06_f001565",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1565,
+      "timestamp_seconds": 54.38748914,
+      "quality_score": 0.788397,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001565.png"
+    },
+    {
+      "frame_id": "v06_f001583",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1583,
+      "timestamp_seconds": 55.013032146,
+      "quality_score": 0.827358,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001583.png"
+    },
+    {
+      "frame_id": "v06_f001608",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1608,
+      "timestamp_seconds": 55.881841877,
+      "quality_score": 0.856161,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001608.png"
+    },
+    {
+      "frame_id": "v06_f001639",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1639,
+      "timestamp_seconds": 56.959165943,
+      "quality_score": 0.862234,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001639.png"
+    },
+    {
+      "frame_id": "v06_f001668",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1668,
+      "timestamp_seconds": 57.96698523,
+      "quality_score": 0.866989,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001668.png"
+    },
+    {
+      "frame_id": "v06_f001694",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1694,
+      "timestamp_seconds": 58.87054735,
+      "quality_score": 0.822629,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001694.png"
+    },
+    {
+      "frame_id": "v06_f001723",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1723,
+      "timestamp_seconds": 59.878366638,
+      "quality_score": 0.850447,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001723.png"
+    },
+    {
+      "frame_id": "v06_f001751",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1751,
+      "timestamp_seconds": 60.851433536,
+      "quality_score": 0.864802,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001751.png"
+    },
+    {
+      "frame_id": "v06_f001772",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1772,
+      "timestamp_seconds": 61.58123371,
+      "quality_score": 0.848558,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001772.png"
+    },
+    {
+      "frame_id": "v06_f001807",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1807,
+      "timestamp_seconds": 62.797567333,
+      "quality_score": 0.865477,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001807.png"
+    },
+    {
+      "frame_id": "v06_f001831",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1831,
+      "timestamp_seconds": 63.631624674,
+      "quality_score": 0.848913,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001831.png"
+    },
+    {
+      "frame_id": "v06_f001851",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1851,
+      "timestamp_seconds": 64.326672459,
+      "quality_score": 0.856604,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001851.png"
+    },
+    {
+      "frame_id": "v06_f001869",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1869,
+      "timestamp_seconds": 64.952215465,
+      "quality_score": 0.758258,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001869.png"
+    },
+    {
+      "frame_id": "v06_f001887",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1887,
+      "timestamp_seconds": 65.577758471,
+      "quality_score": 0.8071,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001887.png"
+    },
+    {
+      "frame_id": "v06_f001915",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1915,
+      "timestamp_seconds": 66.550825369,
+      "quality_score": 0.8248,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001915.png"
+    },
+    {
+      "frame_id": "v06_f001934",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1934,
+      "timestamp_seconds": 67.211120765,
+      "quality_score": 0.858165,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001934.png"
+    },
+    {
+      "frame_id": "v06_f001962",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1962,
+      "timestamp_seconds": 68.184187663,
+      "quality_score": 0.865895,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001962.png"
+    },
+    {
+      "frame_id": "v06_f001993",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 1993,
+      "timestamp_seconds": 69.261511729,
+      "quality_score": 0.868967,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f001993.png"
+    },
+    {
+      "frame_id": "v06_f002014",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2014,
+      "timestamp_seconds": 69.991311903,
+      "quality_score": 0.865168,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002014.png"
+    },
+    {
+      "frame_id": "v06_f002036",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2036,
+      "timestamp_seconds": 70.755864466,
+      "quality_score": 0.85892,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002036.png"
+    },
+    {
+      "frame_id": "v06_f002063",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2063,
+      "timestamp_seconds": 71.694178975,
+      "quality_score": 0.868563,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002063.png"
+    },
+    {
+      "frame_id": "v06_f002086",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2086,
+      "timestamp_seconds": 72.493483927,
+      "quality_score": 0.868752,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002086.png"
+    },
+    {
+      "frame_id": "v06_f002114",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2114,
+      "timestamp_seconds": 73.466550825,
+      "quality_score": 0.881816,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002114.png"
+    },
+    {
+      "frame_id": "v06_f002141",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2141,
+      "timestamp_seconds": 74.404865334,
+      "quality_score": 0.869255,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002141.png"
+    },
+    {
+      "frame_id": "v06_f002159",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2159,
+      "timestamp_seconds": 75.030408341,
+      "quality_score": 0.870013,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002159.png"
+    },
+    {
+      "frame_id": "v06_f002177",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2177,
+      "timestamp_seconds": 75.655951347,
+      "quality_score": 0.821021,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002177.png"
+    },
+    {
+      "frame_id": "v06_f002198",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2198,
+      "timestamp_seconds": 76.38575152,
+      "quality_score": 0.847008,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002198.png"
+    },
+    {
+      "frame_id": "v06_f002227",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2227,
+      "timestamp_seconds": 77.393570808,
+      "quality_score": 0.840768,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002227.png"
+    },
+    {
+      "frame_id": "v06_f002246",
+      "source_video": "EBL_20260904_CAROTID_0008.AVI",
+      "frame_index": 2246,
+      "timestamp_seconds": 78.053866203,
+      "quality_score": 0.863664,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v06_f002246.png"
+    },
+    {
+      "frame_id": "v07_f000015",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 15,
+      "timestamp_seconds": 0.521285838,
+      "quality_score": 0.78574,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000015.png"
+    },
+    {
+      "frame_id": "v07_f000049",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 49,
+      "timestamp_seconds": 1.702867072,
+      "quality_score": 0.710884,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000049.png"
+    },
+    {
+      "frame_id": "v07_f000081",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 81,
+      "timestamp_seconds": 2.814943527,
+      "quality_score": 0.732806,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000081.png"
+    },
+    {
+      "frame_id": "v07_f000102",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 102,
+      "timestamp_seconds": 3.544743701,
+      "quality_score": 0.701767,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000102.png"
+    },
+    {
+      "frame_id": "v07_f000122",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 122,
+      "timestamp_seconds": 4.239791486,
+      "quality_score": 0.718426,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000122.png"
+    },
+    {
+      "frame_id": "v07_f000156",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 156,
+      "timestamp_seconds": 5.421372719,
+      "quality_score": 0.75762,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000156.png"
+    },
+    {
+      "frame_id": "v07_f000176",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 176,
+      "timestamp_seconds": 6.116420504,
+      "quality_score": 0.680642,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000176.png"
+    },
+    {
+      "frame_id": "v07_f000194",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 194,
+      "timestamp_seconds": 6.74196351,
+      "quality_score": 0.693894,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000194.png"
+    },
+    {
+      "frame_id": "v07_f000222",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 222,
+      "timestamp_seconds": 7.715030408,
+      "quality_score": 0.74555,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000222.png"
+    },
+    {
+      "frame_id": "v07_f000240",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 240,
+      "timestamp_seconds": 8.340573414,
+      "quality_score": 0.706966,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000240.png"
+    },
+    {
+      "frame_id": "v07_f000268",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 268,
+      "timestamp_seconds": 9.313640313,
+      "quality_score": 0.745329,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000268.png"
+    },
+    {
+      "frame_id": "v07_f000293",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 293,
+      "timestamp_seconds": 10.182450043,
+      "quality_score": 0.747384,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000293.png"
+    },
+    {
+      "frame_id": "v07_f000311",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 311,
+      "timestamp_seconds": 10.80799305,
+      "quality_score": 0.600449,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000311.png"
+    },
+    {
+      "frame_id": "v07_f000334",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 334,
+      "timestamp_seconds": 11.607298002,
+      "quality_score": 0.681818,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v07_f000334.png"
+    },
+    {
+      "frame_id": "v07_f000363",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 363,
+      "timestamp_seconds": 12.615117289,
+      "quality_score": 0.750735,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000363.png"
+    },
+    {
+      "frame_id": "v07_f000384",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 384,
+      "timestamp_seconds": 13.344917463,
+      "quality_score": 0.711645,
+      "used_in_training_snapshot": true,
+      "image": "research/candidate400/images/v07_f000384.png"
+    },
+    {
+      "frame_id": "v07_f000408",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 408,
+      "timestamp_seconds": 14.178974805,
+      "quality_score": 0.769717,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000408.png"
+    },
+    {
+      "frame_id": "v07_f000441",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 441,
+      "timestamp_seconds": 15.325803649,
+      "quality_score": 0.734624,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000441.png"
+    },
+    {
+      "frame_id": "v07_f000475",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 475,
+      "timestamp_seconds": 16.507384883,
+      "quality_score": 0.762996,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000475.png"
+    },
+    {
+      "frame_id": "v07_f000503",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 503,
+      "timestamp_seconds": 17.480451781,
+      "quality_score": 0.726279,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000503.png"
+    },
+    {
+      "frame_id": "v07_f000531",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 531,
+      "timestamp_seconds": 18.453518679,
+      "quality_score": 0.633746,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000531.png"
+    },
+    {
+      "frame_id": "v07_f000634",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 634,
+      "timestamp_seconds": 22.03301477,
+      "quality_score": 0.73315,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000634.png"
+    },
+    {
+      "frame_id": "v07_f000655",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 655,
+      "timestamp_seconds": 22.762814944,
+      "quality_score": 0.762403,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000655.png"
+    },
+    {
+      "frame_id": "v07_f000685",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 685,
+      "timestamp_seconds": 23.80538662,
+      "quality_score": 0.779231,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000685.png"
+    },
+    {
+      "frame_id": "v07_f000709",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 709,
+      "timestamp_seconds": 24.639443962,
+      "quality_score": 0.779306,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000709.png"
+    },
+    {
+      "frame_id": "v07_f000742",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 742,
+      "timestamp_seconds": 25.786272806,
+      "quality_score": 0.765199,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000742.png"
+    },
+    {
+      "frame_id": "v07_f000772",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 772,
+      "timestamp_seconds": 26.828844483,
+      "quality_score": 0.747796,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000772.png"
+    },
+    {
+      "frame_id": "v07_f000804",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 804,
+      "timestamp_seconds": 27.940920938,
+      "quality_score": 0.679381,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000804.png"
+    },
+    {
+      "frame_id": "v07_f000825",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 825,
+      "timestamp_seconds": 28.670721112,
+      "quality_score": 0.67654,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000825.png"
+    },
+    {
+      "frame_id": "v07_f000858",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 858,
+      "timestamp_seconds": 29.817549957,
+      "quality_score": 0.591326,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000858.png"
+    },
+    {
+      "frame_id": "v07_f000876",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 876,
+      "timestamp_seconds": 30.443092963,
+      "quality_score": 0.693532,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000876.png"
+    },
+    {
+      "frame_id": "v07_f000904",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 904,
+      "timestamp_seconds": 31.416159861,
+      "quality_score": 0.770282,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000904.png"
+    },
+    {
+      "frame_id": "v07_f000923",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 923,
+      "timestamp_seconds": 32.076455256,
+      "quality_score": 0.676867,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000923.png"
+    },
+    {
+      "frame_id": "v07_f000941",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 941,
+      "timestamp_seconds": 32.701998262,
+      "quality_score": 0.733091,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000941.png"
+    },
+    {
+      "frame_id": "v07_f000971",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 971,
+      "timestamp_seconds": 33.744569939,
+      "quality_score": 0.709287,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f000971.png"
+    },
+    {
+      "frame_id": "v07_f001113",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1113,
+      "timestamp_seconds": 38.679409209,
+      "quality_score": 0.771076,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001113.png"
+    },
+    {
+      "frame_id": "v07_f001132",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1132,
+      "timestamp_seconds": 39.339704605,
+      "quality_score": 0.832096,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001132.png"
+    },
+    {
+      "frame_id": "v07_f001152",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1152,
+      "timestamp_seconds": 40.034752389,
+      "quality_score": 0.790181,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001152.png"
+    },
+    {
+      "frame_id": "v07_f001171",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1171,
+      "timestamp_seconds": 40.695047785,
+      "quality_score": 0.815897,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001171.png"
+    },
+    {
+      "frame_id": "v07_f001196",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1196,
+      "timestamp_seconds": 41.563857515,
+      "quality_score": 0.814267,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001196.png"
+    },
+    {
+      "frame_id": "v07_f001214",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1214,
+      "timestamp_seconds": 42.189400521,
+      "quality_score": 0.714839,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001214.png"
+    },
+    {
+      "frame_id": "v07_f001243",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1243,
+      "timestamp_seconds": 43.197219809,
+      "quality_score": 0.820778,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001243.png"
+    },
+    {
+      "frame_id": "v07_f001264",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1264,
+      "timestamp_seconds": 43.927019983,
+      "quality_score": 0.832649,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001264.png"
+    },
+    {
+      "frame_id": "v07_f001282",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1282,
+      "timestamp_seconds": 44.552562989,
+      "quality_score": 0.696885,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001282.png"
+    },
+    {
+      "frame_id": "v07_f001300",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1300,
+      "timestamp_seconds": 45.178105995,
+      "quality_score": 0.786555,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001300.png"
+    },
+    {
+      "frame_id": "v07_f001328",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1328,
+      "timestamp_seconds": 46.151172893,
+      "quality_score": 0.775573,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001328.png"
+    },
+    {
+      "frame_id": "v07_f001350",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1350,
+      "timestamp_seconds": 46.915725456,
+      "quality_score": 0.702198,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001350.png"
+    },
+    {
+      "frame_id": "v07_f001375",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1375,
+      "timestamp_seconds": 47.784535187,
+      "quality_score": 0.805248,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001375.png"
+    },
+    {
+      "frame_id": "v07_f001406",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1406,
+      "timestamp_seconds": 48.861859253,
+      "quality_score": 0.805763,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001406.png"
+    },
+    {
+      "frame_id": "v07_f001431",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1431,
+      "timestamp_seconds": 49.730668983,
+      "quality_score": 0.805442,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001431.png"
+    },
+    {
+      "frame_id": "v07_f001449",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1449,
+      "timestamp_seconds": 50.35621199,
+      "quality_score": 0.734706,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001449.png"
+    },
+    {
+      "frame_id": "v07_f001477",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1477,
+      "timestamp_seconds": 51.329278888,
+      "quality_score": 0.765516,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001477.png"
+    },
+    {
+      "frame_id": "v07_f001495",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1495,
+      "timestamp_seconds": 51.954821894,
+      "quality_score": 0.802668,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001495.png"
+    },
+    {
+      "frame_id": "v07_f001523",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1523,
+      "timestamp_seconds": 52.927888792,
+      "quality_score": 0.818468,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001523.png"
+    },
+    {
+      "frame_id": "v07_f001541",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1541,
+      "timestamp_seconds": 53.553431798,
+      "quality_score": 0.795857,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001541.png"
+    },
+    {
+      "frame_id": "v07_f001575",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1575,
+      "timestamp_seconds": 54.735013032,
+      "quality_score": 0.791567,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001575.png"
+    },
+    {
+      "frame_id": "v07_f001606",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1606,
+      "timestamp_seconds": 55.812337098,
+      "quality_score": 0.805792,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001606.png"
+    },
+    {
+      "frame_id": "v07_f001630",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1630,
+      "timestamp_seconds": 56.64639444,
+      "quality_score": 0.812468,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001630.png"
+    },
+    {
+      "frame_id": "v07_f001664",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1664,
+      "timestamp_seconds": 57.827975673,
+      "quality_score": 0.82861,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001664.png"
+    },
+    {
+      "frame_id": "v07_f001683",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1683,
+      "timestamp_seconds": 58.488271069,
+      "quality_score": 0.729922,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001683.png"
+    },
+    {
+      "frame_id": "v07_f001716",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1716,
+      "timestamp_seconds": 59.635099913,
+      "quality_score": 0.807291,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001716.png"
+    },
+    {
+      "frame_id": "v07_f001748",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1748,
+      "timestamp_seconds": 60.747176368,
+      "quality_score": 0.818807,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001748.png"
+    },
+    {
+      "frame_id": "v07_f001768",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1768,
+      "timestamp_seconds": 61.442224153,
+      "quality_score": 0.837409,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001768.png"
+    },
+    {
+      "frame_id": "v07_f001796",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1796,
+      "timestamp_seconds": 62.415291051,
+      "quality_score": 0.819424,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001796.png"
+    },
+    {
+      "frame_id": "v07_f001830",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1830,
+      "timestamp_seconds": 63.596872285,
+      "quality_score": 0.819429,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001830.png"
+    },
+    {
+      "frame_id": "v07_f001849",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1849,
+      "timestamp_seconds": 64.25716768,
+      "quality_score": 0.780505,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001849.png"
+    },
+    {
+      "frame_id": "v07_f001880",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1880,
+      "timestamp_seconds": 65.334491746,
+      "quality_score": 0.822844,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001880.png"
+    },
+    {
+      "frame_id": "v07_f001899",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1899,
+      "timestamp_seconds": 65.994787142,
+      "quality_score": 0.830531,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001899.png"
+    },
+    {
+      "frame_id": "v07_f001917",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1917,
+      "timestamp_seconds": 66.620330148,
+      "quality_score": 0.796578,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001917.png"
+    },
+    {
+      "frame_id": "v07_f001938",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1938,
+      "timestamp_seconds": 67.350130321,
+      "quality_score": 0.825071,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001938.png"
+    },
+    {
+      "frame_id": "v07_f001956",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1956,
+      "timestamp_seconds": 67.975673328,
+      "quality_score": 0.791832,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001956.png"
+    },
+    {
+      "frame_id": "v07_f001974",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1974,
+      "timestamp_seconds": 68.601216334,
+      "quality_score": 0.792813,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001974.png"
+    },
+    {
+      "frame_id": "v07_f001992",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 1992,
+      "timestamp_seconds": 69.22675934,
+      "quality_score": 0.833721,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f001992.png"
+    },
+    {
+      "frame_id": "v07_f002020",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 2020,
+      "timestamp_seconds": 70.199826238,
+      "quality_score": 0.860632,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f002020.png"
+    },
+    {
+      "frame_id": "v07_f002050",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 2050,
+      "timestamp_seconds": 71.242397915,
+      "quality_score": 0.853979,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f002050.png"
+    },
+    {
+      "frame_id": "v07_f002082",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 2082,
+      "timestamp_seconds": 72.35447437,
+      "quality_score": 0.84518,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f002082.png"
+    },
+    {
+      "frame_id": "v07_f002109",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 2109,
+      "timestamp_seconds": 73.292788879,
+      "quality_score": 0.784859,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f002109.png"
+    },
+    {
+      "frame_id": "v07_f002127",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 2127,
+      "timestamp_seconds": 73.918331885,
+      "quality_score": 0.835841,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f002127.png"
+    },
+    {
+      "frame_id": "v07_f002156",
+      "source_video": "EBL_20260904_CAROTID_0009.AVI",
+      "frame_index": 2156,
+      "timestamp_seconds": 74.926151173,
+      "quality_score": 0.837956,
+      "used_in_training_snapshot": false,
+      "image": "research/candidate400/images/v07_f002156.png"
+    }
+  ]
+}

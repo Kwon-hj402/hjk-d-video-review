@@ -1,0 +1,12 @@
+{
+  "frame_id": "v04_f001366",
+  "split": "test",
+  "dice": 0.0,
+  "iou": 0.0,
+  "predicted_instances": 0,
+  "status": "prediction_unreviewed",
+  "approved": false,
+  "source_video": "EBL_20260904_CAROTID_0006.AVI",
+  "timestamp_seconds": 47.471763684,
+  "objects": []
+}

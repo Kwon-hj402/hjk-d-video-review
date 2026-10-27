@@ -4,3 +4,9 @@ videos/** -text
 *.js text eol=lf
 *.json text eol=lf
 *.md text eol=lf
+pipeline/data/** -text whitespace=-blank-at-eof,cr-at-eol
+pipeline/models/** -text
+*.pptx -text
+*.png -text
+*.jpg -text
+*.pdf -text

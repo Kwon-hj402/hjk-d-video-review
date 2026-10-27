@@ -1,0 +1,14 @@
+# Exact directly-used package versions in the verified GPU runtime.
+# Install torch/torchvision separately with the official cu130 index.
+torch==2.13.0+cu130
+torchvision==0.28.0+cu130
+ultralytics==8.4.110
+numpy==2.4.4
+opencv-python==5.0.0.93
+Pillow==12.2.0
+PyYAML==6.0.3
+fastapi==0.143.0
+uvicorn==0.54.0
+mcp==1.30.0
+
+imageio-ffmpeg==0.6.0

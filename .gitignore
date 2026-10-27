@@ -1,3 +1,11 @@
 *.log
 *.tmp
 .env*
+__pycache__/
+*.pyc
+pipeline/Ultralytics/
+pipeline/work/
+pipeline/reports/
+pipeline/data/annotation_backups/
+pipeline/models/runs/
+.venv/

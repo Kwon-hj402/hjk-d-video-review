@@ -1,0 +1,37 @@
+# FMD research preparation. Only user-approved lumen polygons may be trained.
+# Patient-group validation is required for independent evaluation.
+model: models/yolo11s-seg.pt
+epochs: 100
+imgsz: 640
+batch: 4
+device: 0
+workers: 0
+seed: 42
+deterministic: true
+optimizer: AdamW
+lr0: 0.001
+weight_decay: 0.0005
+patience: 25
+amp: false
+cache: false
+mask_ratio: 1
+overlap_mask: true
+hsv_h: 0.0
+hsv_s: 0.0
+hsv_v: 0.0
+degrees: 3.0
+translate: 0.02
+scale: 0.1
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.0
+mosaic: 0.0
+mixup: 0.0
+cutmix: 0.0
+copy_paste: 0.0
+close_mosaic: 0
+plots: true
+save: true
+save_period: 10
+val: true

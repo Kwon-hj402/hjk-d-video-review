@@ -1,0 +1,17 @@
+{
+  "run_name": "fresh_lumen_20261008T142258Z",
+  "weights": "models/best.pt",
+  "trained_weights": "models/best.pt",
+  "base_weights": "models/yolo11s-seg.pt",
+  "fresh_from_original_pretrained": true,
+  "resume": false,
+  "approved_frames": 215,
+  "classes": {
+    "0": "lumen"
+  },
+  "imgsz": 640,
+  "conf": 0.25,
+  "retina_masks": true,
+  "review_required": true,
+  "medical_validation": false
+}

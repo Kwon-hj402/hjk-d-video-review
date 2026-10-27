@@ -1,0 +1,17 @@
+{
+  "patient_id": "unassigned",
+  "session_id": "unassigned",
+  "phase": "unknown",
+  "anatomy": "unconfirmed",
+  "mm_per_pixel": null,
+  "cuff_release_video_seconds": null,
+  "cuff_inflation_video_seconds": null,
+  "version": 1,
+  "frame_id": "v02_f000252",
+  "status": "approved",
+  "notes": "",
+  "objects": [],
+  "negative": true,
+  "origin": "user",
+  "updated_at": "2026-10-08T13:51:45.707311+00:00"
+}

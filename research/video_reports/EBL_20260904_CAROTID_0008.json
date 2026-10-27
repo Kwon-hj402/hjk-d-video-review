@@ -1,0 +1,89 @@
+{
+  "state": "complete",
+  "created_at": "2026-10-08T15:03:51.583189+00:00",
+  "calculation": "diameter_only",
+  "source": "source_videos/EBL_20260904_CAROTID_0008.AVI",
+  "source_sha256": "24e5a44a078c65d0ea808e9f90a3eeb332e89b105a1d8b25a4a58d3e399c90f5",
+  "weights": "research/training/weights/best.pt",
+  "weights_sha256": "8ad1e5f0a47e033db4115b4e0895abda7175ae0c09e08597f1d38c6bcd187d9a",
+  "algorithm_sha256": "f2240aa31d2096d907313fd0e647cd1f28536f00119583e70db1a17282826e7f",
+  "quality_algorithm_sha256": "0dc33f48f80da3cc2adee988b7afdee2d8d55dd1c2e19adee441d94c3cee1f19",
+  "pipeline_sha256": "5ac6443493581a0db1d5fbd952c759e3d7308b9bad08a79d3886798aec8b42f3",
+  "settings": {
+    "tick_mm": 5.0,
+    "mm_per_pixel_override": null,
+    "roi": null,
+    "effective_roi": [
+      94,
+      40,
+      545,
+      382
+    ],
+    "confidence": 0.25,
+    "device": "0",
+    "imgsz": 640,
+    "retina_masks": true,
+    "min_axis_coverage": 0.35
+  },
+  "spatial_support_rejected_frames": 0,
+  "spatial_support_gate_version": "minimum_longitudinal_roi_support_v1",
+  "calibration_assumption": "Display pixels are isotropic; supplied tick_mm is the distance between adjacent ticks.",
+  "source_reference_frame_checks": [
+    0,
+    1127,
+    2253
+  ],
+  "calibration": {
+    "status_counts": {
+      "available": 2254
+    },
+    "mm_per_pixel_min": 0.078003120124805,
+    "mm_per_pixel_max": 0.078003120124805
+  },
+  "processed": 2254,
+  "total": 2254,
+  "measured": 2254,
+  "unmeasurable": 0,
+  "frames_without_model_masks": 0,
+  "accepted_scanlines_total": 182518,
+  "excluded_scanlines_total": 56,
+  "status_counts": {
+    "ok": 2254
+  },
+  "temporal_smoothing": false,
+  "frames_skipped": 0,
+  "live_annotations_modified": false,
+  "fmd_calculated": false,
+  "medical_validation": false,
+  "comparison_video": "pipeline/reports/video_predictions/all_videos_fresh_20261008T142258Z_reviewed/EBL_20260904_CAROTID_0008/EBL_20260904_CAROTID_0008_D_비교.mp4",
+  "diameter_video": "pipeline/reports/video_predictions/all_videos_fresh_20261008T142258Z_reviewed/EBL_20260904_CAROTID_0008/EBL_20260904_CAROTID_0008_D_표시.mp4",
+  "csv": "pipeline/reports/video_predictions/all_videos_fresh_20261008T142258Z_reviewed/EBL_20260904_CAROTID_0008/EBL_20260904_CAROTID_0008_D_값.csv",
+  "poster": "pipeline/reports/video_predictions/all_videos_fresh_20261008T142258Z_reviewed/EBL_20260904_CAROTID_0008/poster.jpg",
+  "elapsed_seconds": 64.8,
+  "verification": {
+    "comparison": {
+      "decoded_frames": 2254,
+      "fps": 28.775,
+      "width": 1280,
+      "height": 512,
+      "duration_seconds": 78.33188531711555,
+      "verified": true
+    },
+    "diameter": {
+      "decoded_frames": 2254,
+      "fps": 28.775,
+      "width": 640,
+      "height": 512,
+      "duration_seconds": 78.33188531711555,
+      "verified": true
+    }
+  },
+  "method_counts": {
+    "local_centerline_normal_wall_to_wall_middle_70_percent_v1": 2254
+  },
+  "display_note": "Main lumen; middle 70%; local centerline-normal wall distances; spatial outlier rejection. No interpolation.",
+  "output": "pipeline/reports/video_predictions/all_videos_fresh_20261008T142258Z_reviewed/EBL_20260904_CAROTID_0008",
+  "quality_file_sha256_at_completion": "a49acaeeb20033d94d210a5ddfea3115f565201e317f7f825e6a210cea7ea381",
+  "quality_final_source_sha256": "a49acaeeb20033d94d210a5ddfea3115f565201e317f7f825e6a210cea7ea381",
+  "quality_source_note": "Runtime imported initial source. Later source update sanitizes nonfinite diagnostics only; full 15133-frame replay confirms identical finite-input decisions and measurements."
+}
